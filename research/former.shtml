@@ -1,0 +1,233 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/interior.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Insup Lee</title>
+	<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		<!-- InstanceBeginEditable name="Secondary navigation" -->
+		<img src="../images/hdr_research.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Current Projects</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="former.shtml" class="on">Past Projects</a>
+&nbsp;
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		<!-- InstanceEndEditable -->
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+ <p class="h1">Assuring the Safety, Security and Reliability of Medical Device Cyber Physical Systems (<a href="http://nsf.gov/awardsearch/showAward.do?AwardNumber=1035715" target="_blank">NSF CPS</a>) - <a href="http://rtg.cis.upenn.edu/MDCPS/index.html" target="_blank">Project page</a></p>
+ <p>The objective of this research is to establish a new development paradigm that enables the effective design, implementation, and certification of medical device cyber-physical systems. The approach is to pursue the following research directions: 1) to support medical device interconnectivity and interoperability with network-enabled control; 2) to apply coordination between medical devices to support emerging clinical  scenarios; 3) to close the loop and enable feedback about the condition of  the patient to the devices delivering therapy; and 4) to assure safety and  effectiveness of interoperating medical devices.  Novel design methods and  certification techniques will significantly improve patient safety. The  introduction of closed-loop scenarios into clinical practice will reduce the  burden that caregivers are currently facing and will have the potential of  reducing the overall costs of health care.</p>
+<hr>
+<p class="h1">High-Confidence Medical Device Software and Systems (NSF) - <a href="http://rtg.cis.upenn.edu/medical.php3" target="_blank">Project page</a></p>
+<p>The development and production of medical device software systems is a critical issue as medical device software is increasingly sophisticated and medical devices are networked. Of particular importance is how to ensure such medical device systems are safe and effective.  There are three projects that we are pursuing: development of the reference implementation and assurance cases of Generic Patient Controlled Analgesia (GPCA), model-based development of the Pacemaker Challenge, design of Generic Decision Support Architecture (G-CDSA).  The latter is based on our experience in building a smart alarm for post CABG surgery patients, a decision caddy for vasospasm risk analysis, models of blood glucose control guidelines and a closed-loop PCA controller.</p>
+
+<hr>
+<p class="h1">Security and Privacy-Aware Cyber-Physical Systems (NSF, Intel) - <a href="https://rtg.cis.upenn.edu/cps-security/index.html" target="_blank">Project page</a></p>
+<p>The project aims to achieve a comprehensive understanding of CPS-specific security and privacy challenges. This understanding will enable us to (1) develop techniqes to prevent security attacks to CPS and to detect and recover from malicious attacks to CPS; (2) develop techniques for security-aware control design by develop attack resilient state estimator; (3) ensure privacy of data collected and used by CPS, and (4) establish an evidence-based framework for CPS security and privacy assurance, taking into account the operating context of the system and human factors.</p>
+
+<hr>
+ <p class="h1">SPARCS: Synthesis of Platform-aware Attack-Resilient Control Systems (<a href="http://www.darpa.mil/Our_Work/I2O/Programs/High-Assurance_Cyber_Military_Systems_(HACMS).aspx" target="_blank">DARPA HACMS</a>) - <a href="http://rtg.cis.upenn.edu/HACMS/index.html" target="_blank">Project page</a></p>
+<p>The project aims to develop control systems for autonomous vehicles that are resilient to external attacks. Our approach is to combine control-level techniques for controller design and code-level techniques for control task synthesis. Control-level defenses address attacks on the control system, such as attacks on sensors, actuators, communication networks, and computational resources available to the controller. Our control-level defense strategies are based on redundancy within a control loop, as well as new methods for detection, identification, and mitigation of attacks. Code-level defenses prevent injection of malicious code into the operation of the controller itself, achieved through verified code synthesis of control task code. 
+</p>
+
+<hr>
+<p class="h1">Real-Time Embedded Systems: Compositional Scheduling Framework (NSF, ONR) - <a href="http://rtg.cis.upenn.edu/rtComp.php3" target="_blank">Project page</a></p>
+<p>Real-time systems are ones in which correctness depends not only on logical correctness but also on timeliness. In the real-time systems community, substantial research efforts have concentrated on the schedulability analysis problem, which determines whether timing requirements imposed on the system can be satisfied. However, there is no widely accepted technique that supports the compositionality of timing requirements, i.e., how component-level timing requirements can be independently analyzed, abstracted, and composed into the system-level timing requirements.
+
+We have developed a compositional real-time scheduling framework for supporting the compositionality of timing requirements.  Our compositional scheduling framework is supported by the CARTS tool. 
+</p>
+<hr>
+<p class="h1">Quantitative Trust Management (ONR MURI) - <a href="http://rtg.cis.upenn.edu/qtm/index.php3" target="_blank">Project page</a></p>
+<p>In modern computing, distributed topologies are becoming more prevalent as designers take advantage of the bandwidth, file diversity, and scalability such systems offer. Frequently, nodes have the ability to both request and provide services from other users. This is inherently risky; decentralized models lack the notions of authenticity, reliability, and accountability that monolithic servers can provide. Nonetheless, well-behaved decentralized systems are advantageous. Behavior recognition and enforcement are the role of trust and reputation systems. The design and study of these programs is the primary focus of the Quantitative Trust Management Multiple University Research Initiative (QTM-MURI). </p>
+<hr>
+<p class="h1">Quantitative Analysis and Design of Control Networks (<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0931239" target="_blank">NSF CPS</a>)</p>
+<p>Control networks are wireless substrates for industrial automation control, such as the WirelessHART and Honeywell's OneWireless, and have fundamental differences over their sensor network counterparts as they also include actuation and the physical dynamics. The approach of the project is based on using time-triggered communication and computation as a unifying abstraction for understanding control networks. Time-triggered architectures enable the natural integration of communication, computation, and physical aspects of control networks as switched control systems. The time-triggered abstraction will serve for addressing the following interrelated themes: Optimal Schedules via Quantitative Automata, Quantitative Analysis and Design of Control Networks: Wireless Protocols for Optimal Control: Quantitative Trust Management for Control Networks. Our results will be integrated into control networks that are compatible with both WirelessHART and OneWireless specifications.</p>
+<hr>
+<p class="h1">Robust testing by testing robustness of embedded systems (<a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=0720518" target="_blank">NSF EHS</a>)</p>
+<p>In recent years, the idea of the model-based design paradigm is to develop design models and subject them to early analysis, testing, and validation prior to their implementation. Simulation-based testing ensures that a finite number of user-defined system trajectories meet the desired specification. Even though computationally inexpensive simulation is ubiquitous in system design, it suffers from incompleteness, as it is impossible or impractical to test all system trajectories. On the other hand, verification methods enjoy completeness by showing that all system trajectories satisfy the desired property. This project brings together leading experts in embedded control, hybrid systems, and software monitoring and testing to develop the foundations of a modern framework for testing the robustness of embedded hybrid systems. The central idea that this project is centered around is the notion of a robust test, where the robustness of nominal test can be computed and used to infer that a tube of trajectories around the nominal test will yield the same qualitative behavior.</p>
+<hr>
+<p class="h1">Formal Modeling and Analysis of Requirements and Policy Documents (NSF) - <a href="http://rtg.cis.upenn.edu/extract-fm/index.php3">Project page</a> </p>
+<p>Regulations, laws, and policies that affect many aspects of our lives are represented predominantly as documents in natural language. For example, the Food and Drug Administration's Code of Federal Regulations (FDA CFR) governs the operations of American bloodbanks. The CFR is framed by experts in the field of medicine, and regulates the tests that need to be performed on donations of blood before they are used. In such safety-critical scenarios, it is desirable to assess formally whether: 
+
+1) The regulation (CFR) is consistent, and 
+2) An organization (bloodbank) conforms to the CFR 
+
+The proposed research is to develop natural language processing (NLP) techniques for extracting formal representations from regulatory documents. These representations are then analyzed for consistency and used to determine an organization's conformance to the regulation. This is a collaborative effort between researchers in NLP and formal methods and aims at producing an environment in which policy can co-exist in natural and formal languages.
+</p>
+<hr>
+<p class="h1">Run-time Monitoring and Checking (NSF) - <a href="http://rtg.cis.upenn.edu/mac/index.php3" target="_blank">Project page</a></p>
+<p>As the size of software grows, it becomes more difficult to test or verify the correctness of a system. Continuously monitoring of a running system is a complementary approach to increase the assurance of correct execution. We have developed a Monitoring and Checking (MaC) framework to monitor and check running systems against a formal requirement specification. We have also implemented a prototype of the MaC framework for monitoring and checking Java and C programs. 
+</p>
+<hr>
+<p class="h1">Model-Based Development: Code Generation (ONR MURI, NSF) - <a href="http://rtg.cis.upenn.edu/codegen/" target="_blank">Project page</a></p>
+<p>Model-based implementation of embedded software is a promising approach to improving reliability and development cost of embedded systems. Code generation is the last and the most challenging task of automatic synthesis of implementation from formal specification. We are studying various issues of transforming hybrid system models to digital programs, including platform-dependent adaptation and optimization, real time scheduling, and precise event detection. As a case study, we are implementing a CHARON-to-C++ code generator targeted to Sony’s quadruped robot dog, AIBO. Current implementation demonstrates that a simple CHARON specification in the form of a small set of differential equations is enough to describe complex behavior of robots such as getting up and down that would otherwise require tedious C++ programming to describe small amount of movement of every joint at every time step.</p>
+<hr>
+<p class="h1">Model-Based Test Generation (NSF) - <a href="http://rtg.cis.upenn.edu/testgen/" target="_blank">Project page</a></p>
+<p>The goal of this project is to generate tests that can be used to validate an implementation confirms to a specification. For the model-based test generation, the goal is to automatically generate a test suite that meets particular coverage criteria from specification in EFSM or hybrid systems. The approach to integrate random test-trace generator with targeted test-trace generator based on model checking. We use model-checking approaches to make test generation more flexible, efficient, and effective. An enhanced model checker will work as a generic test generator: it takes the coverage criteria encoded in some temporal logic and the specification system as the input, and produces the test suite achieving the coverage.  Essentially the combination of the generic test generator and the criteria given as temporal properties will function as a special test generator dedicated for such criteria. This is done without having to implement a different test generator for each coverage criteria. The approach also exploits well-developed model-checking techniques to make test generation more efficient. Moreover, the richness of temporal properties allows us to express both generic and system-specific coverage criteria.
+</p>
+<hr>
+<p class="h1">Wireless Sensor Networks and Mobile Systems (NSF) - <a href="http://www.cis.upenn.edu/~lee/mobile/" target="_blank">Project page</a></p>
+<p>Our research involves three main tasks: (1) the design of a new programming paradigm for sensor networks that uses geographic abstractions to simplify programming tasks, (2) analyze and design new metrics for security for sensor networks, and (3) analysis and improvement of performance of 3G wireless networks. Our past work includes research on real-time communications over 802.11.
+</p>
+<hr>
+<p class="h1">Hybrid Systems: CHARON (DARPA MoBIES) - <a href="http://rtg.cis.upenn.edu/mobies/charon/" target="_blank">Project page</a></p>
+<p>CHARON is a language for modular specification of interacting hybrid systems based on the notions of agent and mode. For hierarchical description of the system architecture, CHARON provides the operations of instantiation, hiding, and parallel composition on agents, which can be used to build a complex agent from other agents. The discrete and continuous behaviors of an agent are described using modes. For hierarchical description of the behavior of an agent, CHARON supports the operations of instantiation and nesting of modes. Furthermore, features such as weak preemption, history retention, and externally defined Java functions, facilitate the description of complex discrete behavior. Continuous behavior can be specified using differential as well as algebraic constraints, and invariants restricting the flow spaces, all of which can be declared at various levels of the hierarchy. The modular structure of the language is not merely syntactic, but also reflected in the semantics so that it can be exploited during analysis. 
+</p>
+<hr>
+<p class="h1">Model based integration of embedded software (DARPA MoBIES) - <a href="http://www.cis.upenn.edu/mobies/index.php3" target="_blank">Project page</a></p>
+<p>The objective of this project is to develop a methodology and toolkit for design of embedded software for multi-agent communicating hybrid systems. The methodology will cover various design stages, including modeling, simulation, analysis, implementation, and monitoring. The methodology will be based on formal modular and hierarchical semantics of multi-agent hybrid systems. The methodology will improve the process for hybrid systems design by decreasing development costs through high-level modeling, by improving reusability by means of modular designs, and by developing more reliable designs with the help of analysis and runtime valiadation.
+</p>
+<hr>
+<p class="h1">Embedded and Hybrid System Design and Implementation: High Assurance Systems Tools and Environment (HASTEN) (ARC) - <a href="http://rtg.cis.upenn.edu/hasten/index.php3" target="_blank">Project page</a></p>
+<p>The goal of the proposed research is to develop a framework for the integrated use of a suite of methods and tools for the specification, analysis, development, testing, prototyping, simulation and monitoring of embedded software. The framework is called HASTEN (High Assurance Systems Tools and Environments) and will be based on systems that the proposers have been studying separately for some time and can also include systems that are developed elsewhere. The primary methods of interest are: formal specifications, test generation from specifications, automated verification, prototyping and simulation, and run-time monitoring and checking. Each of the methods has its own strengths. Taken within the context of an `end-to-end' view of the software life cycle they can achieve together more than any one of them could do. However, these methods apply to different representations of the system at different points in its development and deployment. Furthermore, some of these methods need be enhanced to handle the resource limitation and constraint characteristics of embedded systems. The significant effort of the proposed work will be to enchance individual methods to support embedded systems. 
+</p>
+<hr>
+<p class="h1">Real-Time Systems: Specification and Analysis of Real-Time Systems (<a href="http://rtg.cis.upenn.edu/fmd.html" target="_blank">ACSR,</a> <a href="http://www.cis.upenn.edu/~lee/duncan/versa.html" target="_blank">VERSA,</a> <a href="http://www.cis.upenn.edu/~lee/inhye/treat.html" target="_blank">TREAT</a>) </p>
+<p>Process algebras without a notion of time have been used widely in
+specifying and verifying concurrent systems.  A process algebra
+consists of a concise language, a precisely defined semantics and a
+notion of equivalence.  The language is based on a small set of
+operators and a few syntactic rules for constructing a complex process
+from simpler components.  The semantics describes the possible
+execution steps a process can take. <br>
+
+We have developed the Algebra of Communicating Shared Resources (ACSR)
+[Lee et al. 94, Lee et al. 96].  ACSR supports the notions of resources and
+priorities which make it a unifying framework that combines the areas
+of process algebra and real-time scheduling.  The ACSR computation
+model is based on the view that the components of a real-time system
+execute synchronously time and resource consuming actions and
+communicate through instantaneous events.  The events occur
+asynchronously, except when two components synchronize through
+matching events.  For finite state ACSR processes, we have developed a
+sound and complete set of algebraic laws that can be used to prove two
+ACSR processes are equivalent, i.e., strongly bisimilar in our
+prioritized transition system.</p>
+<hr>
+
+<p class="h1">Real-Time Programming Languages and Concepts (<a href="http://www.cis.upenn.edu/~lee/home/publication-il.html#05" target="_blank">Publications</a>)</p>
+
+<p>Most programming languages are not suitable for real-time programming,
+in that they lack the ability to effectively express time.  This 
+deficiency makes it difficult to write real-time programs, and nearly
+impossible to reason about their timing behavior.
+We have explored several 
+ways to express timing constraints within a program, and
+have developed three concepts with corresponding language constructs:
+temporal scope [Lee and Gehlot 85], timed synchronous
+communication [Lee and Davidson 87] and timed atomic commitment [Davidson et al 91].
+Temporal scope allows timing constraints to be expressed in a block
+structured manner.
+A program written using temporal scope has predictable timing behavior,
+since either its timing constraints are satisfied or exceptions are raised.
+Furthermore, the specified timing information may be used by a run-time support
+system to schedule processes based on their timing constraints.
+<br>
+Timed atomic commitment is similar to its un-timed counterpart, 
+in that both maintain the functional consistency of distributed activities.
+The difference is that traditional
+atomic commitment enforces eventual agreement between 
+processes.  However, 
+timed atomic commitment requires that agreement be reached within
+a specific deadline, and the agreed-upon 
+actions be executed in a deadline-driven fashion. </p>
+
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

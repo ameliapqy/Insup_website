@@ -1,0 +1,269 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/group_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="2" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_group.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Current Members</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="former_students.shtml" class="on">Former Students</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="former_postdocs.shtml" class="subnav">Former Postdocs</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+              <p class="h1">Former PhD Students</p>
+<ul>
+ 
+<li> David Smitley,<em> The Utilization of Processors Interconnected with a Reconfigurable 
+Network</em>,
+May 1987.  (Started as Research Scientist, Supercomputing Research Center,
+Lanham, Maryland)
+<li>
+Amy Zwarico,
+  <em>An Algebraic Model for Communicating Time-Dependent Processes</em>,
+May 1988.  (Started as Assistant Professor, Computer Science Department,
+the Johns Hopkins University, Baltimore, Maryland)
+<li>
+Richard Gerber,<em> Communicating Shared Resources: A Model for Distributed
+Real-Time Systems</em>,
+August 1991.  (Started as Assistant Professor, Department of Computer Science,
+University of Maryland, College Park, Maryland)
+(<strong>Received the Morris and Dorothy Rubinoff Award for the best
+CIS Ph.D. dissertation, 1992</strong>)
+<li>
+Victor Wolfe,
+  <em>Supporting Real-Time Concurrency</em>,
+August 1991.
+(Co-advised with Susan B. Davidson)
+(Started as Assistant Professor, Department of Computer Science,
+The University of Rhode Island, Kingston, RI)
+<li>
+Robert King,
+  <em>Design, Implementation and Evaluation of a Real-Time Kernel
+for Distributed Robotics</em>,
+December 1991.
+(Started as Research Scientist, IBM, Yorktown Heights, NY)
+<li>
+Patrice Br&eacute;mond-Gr&eacute;goire,
+<em>A Process Algebra of Communicating Shared Resources
+with DenseTime and Priorities</em>,
+May 1994.
+(Continue working at UNYSIS)
+<li>
+Han&ecirc;ne Ben-Abdallah, 
+<em>GCSR: a Graphical Language for the Specification, Refinement and
+Analysis of Real-Time Systems</em>, August 1996.
+(Co-advised with Susan B. Davidson)
+(Started as Postdoc at the University of Waterloo, Professor at University of Sfax, Tunisia)
+<li> 
+Duncan Clarke,<em> Testing Real-Time Constraints</em>, December 1996.
+(Started as Assistant Professor, Department of Computer Science,
+The University of Kentucky, Lexington, KY)
+<li>
+Inhye Kang,
+  <em>Real-Time System Analysis based on State-Space Exploration</em>,  May 1997.
+(Started as Assistant Professor, Department of Computer Science,
+Soong-Sil University, Korea; Professor, University of Seoul, Korea)
+<li>
+Hee Hwan Kwak, 
+  <em>Process Algebraic Approach to the Parametric Analysis of Real-time
+Scheduling Problems</em>,
+February 2000.
+(Started as Senior R&D Engineer II, Synopsys, Portland, OR)
+<li>
+Mahesh Viswanathan,<em> Foundations for the Run-Time Analysis of Software Systems</em>,
+September 2000.
+(Co-advised with Sampath Kannan)
+(Started as Postdoc at DIMACS, Assistant Professor, Department of Computer Science,
+University of Illinois at Urbana-Champaign)
+<strong>(Received the Morris and Dorothy Rubinoff Award for the best
+CIS Ph.D. dissertation, 2001</strong>)
+<li>
+Moonjoo Kim,<em> Information Extraction for Run-time Formal Analysis</em>,
+December 2001.
+(Co-advised with Sampath Kannan)
+(Started as Postdoc at POSTECH, Korea; Currently Assistant Professor at KAIST, Korea) 
+<li>
+Jia Wang,
+  <em>Loss-Sensitive Decision Rules for Intrusion Detection and Response</em>,
+July 2004.
+(Co-advised with Link Zhao, Statistics Department)
+(CEO, Venus Info Tech Inc., Beijing, P.R. China)
+ 
+<li>
+Insik Shin,
+  <em>A Compositional Framework for Real-time Embedded Systems</em>,
+August 2006.
+(Started as Postdoc at Malardalen University, Sweden; Assistant Professor at KAIST, Korea) 
+  <strong>(Received the Morris and Dorothy Rubinoff Award for the best CIS Ph.D. dissertation, 2006</strong>)) <a href="http://locust.kaist.ac.kr/"> homepage </a>
+ 
+<li>
+Usa Sammapun,
+  <em>Monitoring and Checking of Real-Time and Probabilistic Properties</em>, May 2007.
+(Co-advised with Oleg Sokolsky) (Started as IT staff, Goldman Sachs; Kasetsart University, Thailand)
+
+ 
+<li>
+Michael May,
+  <em>Privacy APIs: Formal Models For Analyzing Legal Privacy Requirements</em>,
+May 2008.
+(Co-advised with Carl Gunter) (Development Manager, QIS, Ltd; Radio Adviser Contractor, Partner Communications, Limited; Faculty Lecturer, Kinneret College on the Sea of Galilee, Israel) <a href="http://www2.kinneret.ac.il/mjmay/"> homepage </a>
+ 
+<li>
+Madhukar Anand,<em> Conditional Models for Compositional Design of Real-Time Embedded Systems</em>,
+May 2008. (Cisco, Data Center Team)
+ 
+<li>
+Arvind Easwaran,<em> Advances in Hierarchical Real-Time Systems:
+Incrementality, Optimality, and Multiprocessor Clustering</em>, 
+December 2008. (Co-advised with Oleg Sokolsky) (Postdoc, IPP-HURRAY,
+Polytechnic Institute of Porto)
+ 
+<li>Nikhil Dinesh, <em>Regulatory Conformance: Logic and Logical Form</em>, December 2010. (Co-advised with Aravind Joshi) (Researcher, SRI)
+<li>Jian Chang,<em> Behavior-Centric Trust Management in Distributed Systems</em>,
+May 2013. (Co-supervised with Sampath Kannan) (<a href="http://www.openx.com">www.openx.com</a>)
+<li>Andrew G. West, <em>Damage Detection and Mitigation in Open Collaboration Applications</em>,
+May 2013. (Co-supervised with Oleg Sokolsky) (Verisign)
+<li>Zhuoyao Zhang, <em>Performance Modeling and Resource Management for MapReduce Applications</em>,
+May 2014. (Co-supervised with Boon Tau Loo) (Google)
+<li>BaekGyu Kim, <em>Safety-Assured Model-Based Development of Real-Time Embedded Software for the GPCA Infusion Pump</em>, August 2015. (Co-supervised with Oleg Sokolsky) (Toyota ITC)
+<li>Andrew King, <em>Foundations for Safety-Critical On-Demand Medical Systems</em>, May 2016. (Zoox)
+<li>Bong Ho Kim, <em>Techniques for End-To-End TCP Performance Enhancement over Wireless Networks</em>, August 2016. (Working at Nokia, US)
+<li>Sanjian Chen, <em>Model-Based Analysis of User Behaviors in Medical Cyber-Physical Systems</em>, August 2016.
+(Applied Predictive Technologies (APT))
+<li>Alexander Roederer,<em> Parameter Invariant Statistics and Their Application to Clinical Decision Support</em>, August 2016.
+(Co-supervised with C. William Hanson III, MD) (Google)
+<li>Jaewoo Lee,<em> Resource-Efficient Scheduling of Multiprocessor Mixed-Criticality
+Real-Time Systems</em>, June 2017.
+(Co-supervised with Linh P.X. Phan) (Postdoc at Seoul National University (SNU))
+<li>Radoslav Ivanov,  
+  <em>Context-Aware Sensor Fusion for Securing Cyber-Physical Systems</em>, July 2017.
+(Co-supervised with James Weimer) (postdoc at the University of Pennsylvania)
+<li>Junkil Park,
+  <em>Automatic Verification of Linear Controller Software</em>, May 2017.
+(Co-supervised with Oleg Sokolsky) (Research Scientist, SGT/NASA Ames Research Center)
+<li>Meng Xu,
+  <em>Cache-Aware Real-Time Virtualization</em>, June 2018.
+(Co-supervised with Linh P.X. Phan) (Apple)
+<li>David Arney,<em> Medical Device Interoperability with Provable Safety Properties</em>, May 2019.
+(Principle Associate, Harvard Medical School).
+
+
+
+
+
+
+
+</ul>
+              <p>&nbsp;</p>              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+            <!--#include virtual="../includes/global_group.html"-->
+            </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

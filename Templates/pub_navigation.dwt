@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/interior.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Insup Lee</title>
+    
+<!-- TemplateParam name="which" type="number" value="1" -->    
+<!-- TemplateParam name="off" type="text" value="subnav" -->
+<!-- TemplateParam name="on" type="text" value="on" -->
+
+	<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue">
+    <!--#include virtual="../includes/int_nav.html"-->
+	</td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		<!-- InstanceBeginEditable name="Secondary navigation" -->
+		<img src="../images/hdr_publications.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="@@((which==1) ? on : off )@@">Recent Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="books.shtml" class="@@((which==2) ? on : off )@@">Books</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="journals.shtml" class="@@((which==3) ? on : off )@@">Journal Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="chapters.shtml" class="@@((which==4) ? on : off )@@">Book Chapters</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="conferences.shtml" class="@@((which==5) ? on : off )@@">Conference Papers</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="area.shtml" class="@@((which==7) ? on : off )@@">Selected Papers by Area</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="other.shtml" class="@@((which==8) ? on : off )@@">Other</a>
+
+
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		<!-- InstanceEndEditable -->
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+              <p class="h1">Heading</p>
+              <p>
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+                Interior Content goes here. </p>
+              <p>&nbsp;</p>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+             <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+           <p class="h2">Relevant Publications</p>
+              <ul>
+              <li><a href="https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en" class="subnav" target="_blank">Google Scholar</a> </li>
+              <li><a href="http://dblp.uni-trier.de/pers/hd/l/Lee:Insup" class="subnav" target="_blank">DBLP</a> </li>
+              <br>
+              <li><a href="http://repository.upenn.edu/precise/" class="subnav" target="_blank">PRECISE Publications</a> </li>
+              <li><a href="http://rtg.cis.upenn.edu/publications.php3" class="subnav" target="_blank">RTG Publications</a> </li>
+              </ul>
+              	</td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

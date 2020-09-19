@@ -1,0 +1,192 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<title>Insup Lee</title>
+    <meta name="keywords" content="control theory, control systems, hybrid systems, hybrid control, embedded systems, hierarchical control, distributed control systems, robotics, unmanned aerial vehicles, multi-agent systems, green buildings, energy efficient buildings, systems biology, wireless control networks">
+	<link rel="stylesheet" href="style.css">
+    <script language="JavaScript" type="text/javascript" src="includes/scripts.js"></script>
+   	<!--#include virtual="includes/slideshow.html"-->
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+        <!--#include virtual="includes/int_top_home.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="images/home_left.png" alt="Insup Lee" width="520" height="227"></td>
+		<td class="white">
+		<script type="text/javascript">
+        //new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
+        new fadeshow(fadeimages, 440, 227, 0, 3000, 1, "R")
+        </script>
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue">
+    <!--#include virtual="includes/int_nav_home.html"-->
+	</td>
+</tr>
+<tr>
+	<td class="white">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr valign="top">
+		<td width="320" class="columnbg">
+        <table border="0" cellpadding="20" cellspacing="0">
+        <tr>
+            <td>
+            <div><img src="images/clear.gif" width="20" height="12" alt="" border="0"></div>
+            <img src="images/hdr_sm_welcome.jpg" width="280" height="35">
+<!-- Welcome Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<p>Insup Lee is the
+ <a href="http://www.archives.upenn.edu/faids/upt/upt50/mooreaf_family.html">Cecilia Fitler Moore</a> Professor in
+the <a href="http://www.cis.upenn.edu/">Department of Computer and
+Information Science</a>, Director of
+<a href="http://precise.seas.upenn.edu/">PRECISE Center</a>, and Co-Director of <a href="https://healthtech.upenn.edu/">Penn Health-Tech</a> at
+the <a href="http://www.upenn.edu/">University of Pennsylvania</a>.  He also holds a secondary appointment in the Department of Electrical and Systems Engineering.
+
+His research interests include cyber-physical systems (CPS), real-time systems, embedded systems, high-confidence medical device systems, formal methods and tools, run-time verification, software certification, and trust management.  The theme of his research activities has been to assure and improve the correctness, safety, and timeliness of life-critical embedded systems. 
+
+He is ACM fellow and IEEE fellow and received IEEE TC-RTS Outstanding Technical Achievement and Leadership Award in 2008. </p>
+<p>&nbsp;</p>
+<p>A founding co-Editor-in-Chief of <a href="https://health.acm.org/" target="_blank">ACM Transactions on Computing for Healthcare (HEALTH)</a></p>
+<p><a href="https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en" target="_blank">Google Scholar</a></p>
+<p><a href="https://dblp.uni-trier.de/pers/hd/l/Lee:Insup" target="_blank">dblp</a></p>
+<p>&nbsp;</p>
+<p>Please contact Professor <a href="mailto:lee@cis.upenn.edu">Insup Lee</a> if you are interested in joining his group as a PhD student or Postdoctoral fellow.</p>
+<p>&nbsp;</p>
+
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td class="lgray"><img src="images/clear.gif" width="20" height="3" alt="" border="0"></td>
+    </tr>
+</table>
+          <p>&nbsp;</p>
+          <p align="right">[ <a href="about/index.shtml">About Me</a> ]</p>
+
+
+
+<!-- Welcome End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp --></td>
+        </tr>
+        </table>
+        </td>
+		<td width="320" class="vline">
+        <table border="0" cellpadding="20" cellspacing="0">
+        <tr>
+            <td>
+            <div><img src="images/clear.gif" width="20" height="12" alt="" border="0"></div>
+            <img src="images/hdr_sm_news.jpg" width="280" height="35">
+<!-- News Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  --> 
+<p><strong>August 2020:</strong>&nbsp;&nbsp;Insup Lee and his team partner with Hillrom and Penn Nursing to optimize the use of medical devices in clinical settings to improve patient outcomes. <a href="https://penntoday.upenn.edu/news/penn-engineering-and-nursing-partner-medical-device-provider-hillrom-internet-things" target="_blank">Read more</a></p>
+<p><strong>March 2020:</strong>&nbsp;&nbsp;The inaugural issue of ACM Transactions on Computing for Healthcare (HEALTH) with Insup Lee as Co-Editor-in-Chief has been published and is now available in the <a href="https://orange.hosting.lsoft.com/trk/click?ref=znwrbbrs9_6-24222x320bc4x017090&" target="_blank">ACM Digital Library</a>!</p>
+<p><strong>November 2019:</strong> &nbsp;&nbsp;PRECISE members Insup Lee and Oleg Sokolsky, along with Sampath Kannan, Moonzoo Kim, and Mahesh Viswanathan, win the Test-of-Time Award for their 2001 paper "<a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/01rv.pdf">Java-MaC: a run-time assurance tool for Java programs</a>" at the 2019 Conference on Runtime Verification.</p>
+<p><strong>October 2019:</strong> &nbsp;&nbsp;The Best Paper Award for the 17th ACM-IEEE International Conference on Formal Methods and Models for System Design (<a href="https://memocode.github.io/2019/">MEMOCODE'19</a>) went to the paper entitled <a href="https://dl.acm.org/citation.cfm?id=3361212">Detecting Security Leaks in Hybrid Systems with Information Flow Analysis</a> by Luan Nguyen, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee and Rajeev Alur. <a href="https://precise.seas.upenn.edu/news/20191010-precises-team-won-best-paper-award-memocode">Read more</a>.</p>
+
+
+
+  <p>&nbsp;</p>
+  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+    <tr>
+    <td class="lgray"><img src="images/clear.gif" width="20" height="3" alt="" border="0"></td>
+    </tr>
+</table>
+          <p>&nbsp;</p>
+          <p align="right">[ <a href="news/index.shtml">All News</a> ]</p>
+            </td>
+        </tr>
+        </table>
+       </td>
+		<td width="320" class="vline">
+        <table border="0" cellpadding="20" cellspacing="0">
+        <tr>
+            <td>
+            <div><img src="images/clear.gif" width="20" height="12" alt="" border="0"></div>
+            <img src="images/hdr_sm_recent.jpg" width="280" height="35">
+<!-- Recent Publications Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+ 				<p><strong><a href="http://repository.upenn.edu/cis_papers/856">Calibrated Prediction with Covariate Shift via Unsupervised Domain Adaptation</a></strong>. Sangdon Park, Osbert Bastani, James Weimer, and Insup Lee. To appear in Proceedings of <em> 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020)</em>, Palermo, Italy, June 2020. </p> 				<!---  June 3-5, 2020. --->
+ 				<p><strong><a href="http://repository.upenn.edu/cis_papers/858">PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction</a></strong>. Sangdon Park, Osbert Bastani, Nikolai Matni, and Insup Lee. To appear in Proceedings of <em> International Conference on Learning Representations (ICLR 2020)</em>, Addis Ababa, Ethiopia, April 2020. </p> 				<!---  April 26-30, 2020. --->
+ 				<p><strong><a href="http://repository.upenn.edu/cis_papers/860">Case Study: Verifying the Safety of an Autonomous Racing Car with a Neural Network Controller</a></strong>. Radoslav Ivanov, Taylor J. Carpenter, James Weimer, Rajeev Alur, George Pappas, and Insup Lee. To appear in Proceedings of <em> 23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2020)</em>, Sydney, Australia, April 2020. <strong>(Received HSCC repeatability badge)</strong></p> 		<!---  April 21-24, 2020. --->
+				<p><strong><a href="https://arxiv.org/abs/1909.05304">Reinforcement Learning for Temporal Logic Control Synthesis with Probabilistic Satisfaction Guarantees</a></strong>.M. Hasanbeig, Y. Kantaros, A. Abate, D. Kroening, G. J. Pappas, I. Lee. In Proceedings of <em>58th IEEE Conference on Decision and Control (CDC 2019)</em>, Nice, France, December 2019.</p> 				<!---  December 11-13, 2019 --->
+
+   
+              
+              <p>&nbsp;</p>
+<!-- Recent Publications End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+              <td class="lgray"><img src="images/clear.gif" width="20" height="3" alt="" border="0"></td>
+          </tr>
+          </table>
+          <p>&nbsp;</p>
+          <p align="right">[ <a href="publications/index.shtml">All Publications</a> ]</p>
+            </td>
+        </tr>
+        </table>
+       </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue">
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td class="dblue"><img src="images/clear.gif" width="320" height="10" alt="" border="0"></td>
+		<td></td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

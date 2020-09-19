@@ -1,0 +1,332 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/interior.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Insup Lee</title>
+	<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		<!-- InstanceBeginEditable name="Secondary navigation" -->
+		<img src="../images/hdr_awards.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<!--
+<a href="file:///C|/Users/Mama/Documents/UPenn/test/index.shtml" class="on">sub nav</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#" class="subnav">sub nav</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#" class="subnav">sub nav</a>
+ -->
+ <!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		<!-- InstanceEndEditable -->
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="2">
+ <tr>
+   <td class="h2">2019</td>
+    <td>&nbsp;</td>
+   </tr>
+         <tr>
+    <td valign="top">November</td>
+    <td>PRECISE members Insup Lee and Oleg Sokolsky, along with Sampath Kannan, Moonzoo Kim, and Mahesh Viswanathan, win the Test-of-Time Award for their 2001 paper "<a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/01rv.pdf">Java-MaC: a run-time assurance tool for Java programs</a>" at the 2019 Conference on Runtime Verification.</td>
+  </tr>
+       <tr>
+    <td valign="top">October</td>
+    <td>The Best Paper Award for the 17th ACM-IEEE International Conference on Formal Methods and Models for System Design (<a href="https://memocode.github.io/2019/">MEMOCODE'19</a>) went to the paper entitled <a href="https://dl.acm.org/citation.cfm?id=3361212">Detecting Security Leaks in Hybrid Systems with Information Flow Analysis</a> by Luan Nguyen, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee and Rajeev Alur. <a href="https://precise.seas.upenn.edu/news/20191010-precises-team-won-best-paper-award-memocode">Read more</a>.</td>
+  </tr>
+        <tr>
+    <td valign="top">April</td>
+    <td>The Best Paper Award for the 25th IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2019) went to the paper entitled <a href="https://repository.upenn.edu/cis_papers/850/">Holistic resource allocation for multi-core real-time systems</a> by Meng Xu, Linh Thi Xuan Phan, Hyon-Young Choi, Yuhan Lin, Haoran Li, Chenyang Lu, Insup Lee. <a href="https://precise.seas.upenn.edu/news/20190422-linh-thi-xuan-phan-and-her-team-won-best-paper-awards-25th-ieee-rtas-2019">Read more</a>.</td>
+  </tr>
+ <tr>
+    <td valign="top">January</td>
+    <td>The Deans' Distinguished Visiting Professorship is award to Insup Lee, Ph.D. by Perelman School of Medicine at the University of Pennsylvania on 17 Jan 2019. Dr. Lee presented to the audience a talk entitled "Internet of Medical Things (IoMT)" that day.</td>
+  </tr>
+
+        <tr>
+    <td class="h2">2018</td>
+    <td>&nbsp;</td>
+   </tr>
+        <tr>
+    <td valign="top">May</td>
+    <td>The Best Paper Award for the the 21st IEEE International Symposium on Real-Time Computing (ISORC 2018)  went to the paper entitled “<a href="https://repository.upenn.edu/cis_papers/838/" target="_blank">Data Freshness Over Engineering: Formulation and Results</a>” by Dagaen Golomb, Deepak Gangadharan, Sanjian Chen, Oleg Sokolsky, and Insup Lee. <a href="https://precise.seas.upenn.edu/news/20180603-insup-lee-and-his-team-won-best-paper-award-isorc-2018" target="_blank">Read more</a>.</td>
+  </tr>
+    <tr>
+    <td class="h2">2017</td>
+    <td>&nbsp;</td>
+   </tr>
+     <tr>
+    <td valign="top">December</td>
+    <td>Insup Lee has been named a Fellow of the ACM! The honor is richly deserved for his research accomplishments and community leadership. <a href="http://www.cis.upenn.edu/media/features/feature-lee-17.php" target="_blank">Read more</a></td>
+  </tr>
+    <tr>
+    <td class="h2">2016</td>
+    <td>&nbsp;</td>
+   </tr>
+   <tr>
+    <td valign="top">October</td>
+    <td>The Best Paper Award for the IEEE International Conference on Cyber-Physical Systems, Networks, and Applications  (<a href="https://www.computer.org/csdl/proceedings/cpsna/2016/12OmNyQ7FQP" target="_blank">CPSNA 2016</a>) went to the paper entitled &quot;Adaptive Transient Fault Model for Sensor Attack Detection&quot; by Minsu Jo, Junkil Park, Yungmi Baek, Radoslav Ivanov, James Weimer, Sanghyuk Son, and Insup Lee.</td>
+  </tr>
+
+   <tr>
+    <td class="h2">2014</td>
+    <td>&nbsp;</td>
+   </tr>
+   <tr>
+    <td valign="top">April</td>
+    <td>The Best Paper Award for the 5th International Conference on Cyber-Physical Systems (<a href="http://iccps.acm.org/2014/" target="_blank">ICCPS 2014</a>) went to the paper entitled &quot;<a href="http://repository.upenn.edu/cis_papers/771/" target="_blank">Robustness of Attack-resilient State Estimators</a>&quot; by Miroslav Pajic, James Weimer, Nicola Bezzo, Paulo Tabuada, Oleg Sokolsky, Insup Lee, George Pappas.</td>
+  </tr>
+   <tr>
+    <td class="h2">2013</td>
+    <td>&nbsp;</td>
+  </tr>
+   <tr>
+    <td valign="top">August</td>
+    <td>Insup Lee received Appreciation Plaque from Ministry of Science, IT and Future Planning, South Korea,
+for speaking at Universal Linkage for Top Research Advisor (ULTRA) Program Forum.</td>
+  </tr>
+   <tr>
+    <td class="h2">2012</td>
+    <td>&nbsp;</td>
+  </tr>
+   <tr>
+    <td valign="top">December</td>
+    <td>The Best Paper Award for the 33rd IEEE Real-Time Systems Symposium (<a href="http://sites.ieee.org/rtss2012/" target="_blank">RTSS 2012</a>) went to the paper entitled &quot;<a href="http://repository.upenn.edu/cis_papers/739/" target="_blank">Extending Task-level to Job-level Fixed Priority Assignment and Schedulability Analysis Using Pseudo-deadlines</a>&quot;, jointly written by Penn and KAIST. (Co-authors: Hoon Sung Chwa, Hyoungbu Back, Sanjian Chen, Jinkyu Lee, Arvind Easwaran, Insik Shin and Insup Lee).</td>
+  </tr>
+   <tr>
+    <td valign="top">April</td>
+    <td>The Best Student Paper Award for the 18th IEEE Real-Time and Embedded Technology and Applications Symposium (<a href="http://www.rtas.org/" target="_blank">RTAS 2012</a>) went to Miroslav Pajic et al for their paper entitled &quot;<a href="http://repository.upenn.edu/mlab_papers/45/">From Verification to Implementation: A Model Translation Tool and a Pacemaker Case Study</a>&quot; (Co-authors: Zhihao Jiang, Insup Lee, Oleg Sokolsky and Rahul Mangharam).</td>
+  </tr>
+
+  <tr>
+    <td valign="top" class="h2">2011</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">September</td>
+    <td><strong><a href="http://repository.upenn.edu/cis_papers/470">Link Spamming Wikipedia for Profit</a></strong>. Andrew G. West, Jian Chang, Krishna Venkatasubramanian, Oleg Sokolsky,  and Insup Lee.  In <em>8th Annual Collaboration, Electronic messaging, Anti-Abuse and Spam Conference (CAES 2011)</em>, Perth, Australia, September 2011. <strong>(co-Best Paper) </strong></td>
+  </tr>
+  <tr>
+    <td valign="top" class="h2">2010</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">October</td>
+    <td><strong><a href="http://repository.upenn.edu/cis_papers/461">Modeling Buffers with Data Refresh Semantics in Automotive Architectures</a></strong>. Linh T.X. Phan, Reinhard Schneider, Samarjit Chakraborty, and Insup Lee.  In <em>10th International Conference on Embedded Software (EMSOFT 2010)</em>, Scottsdale, Arizona, October 2010. <strong>(Best Paper Candidate) </strong></td>
+  </tr>
+  <tr>
+    <td valign="top" class="h2">2008</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">December&nbsp;&nbsp;</td>
+    <td><strong>IEEE TCRTS Outstanding Technical Achievement and Leadership <a href="http://tcrts.org/awards/" target="_blank">Award</a>.</strong></td>
+  </tr>
+   <tr>
+    <td valign="top" class="h2">2007</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;&nbsp;</td>
+    <td><strong>The <a href="http://www.cimit.org/news/kennedyaward_mdpnp.html" target="_blank">Edward M. Kennedy Award</a> for Health Care Innovation</strong> 2007, CIMIT (Center for Integration of
+Medicine and Innovative Technology ), Medical Device "PnP" Interoperability Team, Julian Goldman
+(leader), Dave Arney, Insup Lee, et al.</td>
+  </tr>
+  <tr>
+    <td valign="top" class="h2">2006</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">April&nbsp;&nbsp;</td>
+    <td><strong>IEEE Computer Society's Certificate of Appreciation</strong> "for your important contributions to ISORC 2006 as a Symposium Co-Chair".</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;&nbsp;</td>
+    <td><strong>DVP Speaker</strong> of IEEE Computer Society Distinguished Visitors Program (DVP), 2004-2006.</td>
+  </tr>
+<tr>
+    <td valign="top" class="h2">2005</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">December&nbsp;&nbsp;</td>
+    <td>Dr. Insup Lee has been named the <strong><a href="http://www.upenn.edu/almanac/volumes/v52/n15/il.html" target="_blank">Cecilia Fitler Moore Professor</a></strong> of Computer and Information Science.</td>
+  </tr>
+    <tr>
+    <td valign="top">August</td>
+    <td><strong>KSEA Certificate of Appreciation</strong> "in recognition of excellent contribution to KSEA as Co-Chair of ICTS at the 2005 US-Korea Conference (UKC 2005)."</td>
+  </tr>
+ <tr>
+    <td valign="top">February&nbsp;&nbsp;</td>
+    <td><strong>Dissertation Advisor for Bronze Prize winner in Samsung Electronics' Humantech Thesis Contest</strong>, Dissertation on
+"A Design Framework for Real-Time Embedded Systems with Code Size and Energy Constraints" by
+Insik Shin and Sheayun Lee, Feb 2005. (Co-advised with Professor Sang Lyul Min at SNU).</td>
+  </tr>
+  <tr>
+    <td valign="top" class="h2">2004</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">May&nbsp;&nbsp;</td>
+    <td><strong>IEEE Computer Society's Certificate of Appreciation</strong> "for your important contributions to ISORC 2004 as a Symposium Co-Chair".</td>
+  </tr>
+<tr>
+    <td valign="top" class="h2">2003</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">December&nbsp;&nbsp;</td>
+    <td><strong>The Best Paper Award</strong>, IEEE Real-Time Systems Symposium, "Periodic Resource Model for Compositional
+Real-Time Guarantees," (with Insik Shin).</td>
+  </tr>
+   <tr>
+    <td valign="top" class="h2">2001</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;&nbsp;</td>
+    <td><strong>IEEE Fellow</strong> "for contributions to the specification languages and verfication tools for real-time systems".</td>
+  </tr>
+  <tr>
+    <td valign="top" class="h2">1998</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">April&nbsp;&nbsp;</td>
+    <td><strong>IEEE Computer Society's Certificate of Appreciation</strong> "for your important contributions to the development of the 1st IEEE CS Symposium on Objectoriented
+Real-time Distributed Computing program as Program Co-Chair".</td>
+  </tr>
+    <tr>
+    <td valign="top" class="h2">1995</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;&nbsp;</td>
+    <td><strong>Board of Directors</strong>, <a href="http://www.jaisohn.org">Philip Jaisohn Memorial Foundation</a>, since 1995.</td>
+  </tr>
+ <tr>
+    <td valign="top" class="h2">1994</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">February&nbsp;&nbsp;</td>
+    <td><strong>IEEE Computer Society's Certificate of Appreciation</strong> "for an outstanding performance as co-chairs of the 1992 and 1993 Real-Time Systems Symposiums".</td>
+  </tr>
+    <tr>
+    <td valign="top" class="h2">1990</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;&nbsp;</td>
+    <td><strong>ACM Certification of Appreciation</strong> "in recognition of advice and guidance to the University of Pennsylvania
+Programming Team at the ACM Allegheny Regional Scholastic Programming Contest." Second
+Place, Allegheny Regionals, Division I.</td>
+  </tr>
+    <tr>
+    <td valign="top" class="h2">1989</td>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;&nbsp;</td>
+    <td><strong>Honorary Masters Degree</strong>, University of Pennsylvania.</td>
+  </tr>
+  </table>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+            <!--#include virtual="../includes/global_awards.html"-->
+            </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

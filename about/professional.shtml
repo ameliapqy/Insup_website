@@ -1,0 +1,278 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/about_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="6" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_about.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Biography</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="http://www.cis.upenn.edu/~lee/vitagen-web-seas.pdf" class="subnav">CV</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="professional.shtml" class="on">Professional Activities</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="personal.shtml" class="subnav">Personal</a>
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+              
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+              <p class="h1">Professional Activities</p>
+
+              
+<p><strong>Editorial Boards</strong></p>
+<ul>  
+  <li> Founding Co-Editor-in-Chief, KIISE Journal of Computing Science and Engineering (JCSE), since Sept 2007.</li>
+  <li> Editorial Board, Formal Methods in System Design, since 1996.</li>
+  <li> Real-Time Systems: The International Journal of Time-Critical Computing Systems: Associate Editor 2003-2010), Advisory Board since 2010.</li>
+  <li> Editorial Board, Journal of Embedded Computing, since 2003.</li>
+  <li>Editorial Board, Journal of Electrical Engineering and Information Science, 1998-2001.</li>
+  <li>Editorial Board, IEEE Transactions on Computers, 1995-2000.</li>
+</ul>
+<p><strong>Service and Leadership</strong></p>
+<ul>
+  <li> Member, President's Council of Advisors on Science and Technology (PCAST) Networking and Information  Technology (NIT) Technical Advisory Group (TAG), 2006-2007.</li>
+  <li>Co-Chair, IEEE CS Technical Steering Committee on Embedded Sysystems, 2005-2006.</li>
+  <li>Chair, IEEE Computer Society Technical Committee on Real-Time System, 2003-2004.</li>
+  <li>Vice Chair, IEEE Computer Society Technical Committee on Real-Time System, 2001-2002. (Elected)</li>
+  <li>Naval Research Lab (NRL) External Research Review Panel for Information Technology S&amp;T Program  (1997, 2004)</li>
+  <li>President, Philadelphia Chapter of KSEA (Korean-American Scientists and Engineers in America),  1990-1991.</li>
+</ul>
+
+<p><strong>Steering and Advisory Committees</strong></p>
+<ul>
+  <li>Advisory Committee, <a href="http://bsncontest.org/" target="blank">Body Sensor Network Contest</a>, May 23, 2011. </li>
+  <li>Advisory Board, CPS Summer School, Georgia Institute of Technology, June 22-26, 2009.</li>
+  <li>Advisory Board, Asian Association for Foundation of Software (AAFS) since 2003.</li>
+  <li>Advisory Board, International Conference on Embedded and Real-Time Computing Systems and Applications       (RTCSA) since 2004.</li>
+  <li>Steering Committee, CPS Week (since 2008), ES Week (since 2007), ATVA (since 2004), ISORC (since    2010), Run-Time Verification (since 2002).</li>
+  <li>Steering Committee, International Conference on Real-Time Computing Systems and Applications                (RTCSA), 1996-2002.</li>
+  <li>Executive Committee, ACM SIGBED (since 2006).</li>
+  <li>Executive Committee, IEEE CS Technical Committee on Real-Time Systems, 1994-1996, 2005-2011.</li>
+  <li>Executive Committee, EMSOFT, since 2005.</li>
+  <li>Advisory Committee, IT Symposium, UKC 2007, Aug 9-12.</li>
+  <li>Executive Committee, KOCSEA (Korean-American Computer Scientists and Engineers Association),                1995-2001.</li>
+  <li>Steering Committee Chair, NRC '98, The 9th KSEA Northeast Regional Conference, Rutgers University,        New Brunswick, NJ, March 6-7, 1998.  </li>
+</ul>
+
+<p><strong>Conference and Workshop Chairs</strong></p>
+<ul>
+  <li>Program Co-Chair, ICCPS, 2011.</li>
+  <li>General Co-Chair, 1st International Conference on Runtime Verification, Nov 1-4, 2010, Malta.</li>
+  <li>Co-organizer, 2nd workshop on HCMDSS and MD PnP, CPS Week, San Francisco, April 2009.</li>
+  <li>Co-organizer, CRTS (Compositional Real-Time Systems) Workshop. (Dec 2008, Dec 2009, Dec 2010).</li>
+  <li>General Co-Chair, International Conference on Embedded and Real-Time Computing Systems and Applications (RTCSA), Taipei, Taiwan, Aug 2008.</li>
+  <li>Workshop Co-Chair, Workshop on Software and Systems for Medical Devices and Services (SMDS),  Dec 3, 2008.</li>
+  <li>Co-organizer, Joint workshop on High-Condence Medical Devices, Software, and Systems/ Medical Device Plug-and-Play (HCMDSS/MD PnP). (Boston, June 25-27, 2007; San Francisco, April 16, 2009).</li>
+  <li>Symposium Co-Chair, IEEE ISORC, Gyeongju, Korea, Apr 24-26, 2006.</li>
+  <li>General Chair, International Workshop on Automated Technology for Verification and Analysis (ATVA), Taipei, Taiwan, Oct 2005.</li>
+  <li>Co-Chair, Information &amp; Communication Technology Symposium (ICTS) KSEA UKC 2005, Aug 2005.</li>
+  <li>Chair Organizer, <a href="www.cis.upenn.edu/hcmdss/" target="blank">High-Confidence Medical Device Software and Systems (HCMDSS)Workshop</a>, Philadelphia,  PA, June 2-3, 2005.</li>
+  <li>Co-organizer, <a href="www.cis.upenn.edu/hcmdss-planning/" target="blank">High-Confidence Medical Device Software and Systems (HCMDSS) Planning Workshop</a>,  Arlington, VA, Nov 16-17, 2004. </li>
+  <li>Program Co-Chair, IEEE International Symposium on Object-oriented Real-time distributed Computing (ISORC), Vienna, Austria, May 12-14, 2004.</li>
+  <li>Program Co-Chair, International Workshop on Automated Technology for Verification and Analysis (ATVA),    Taipei, Taiwan, Dec 10-13, 2003.</li>
+  <li>Program Co-Chair, International Conference on EMSOFT, Philadephia, Oct 13-15, 2003.</li>
+  <li>Program Co-Chair, Monterey Workshop on Software Engineering fro Embedded Systems: From Requirements to Implementation, Chicago, Sep 24-26, 2003.</li>
+  <li>General Co-Chair, IEEE International Symposium on Object-oriented Real-time distributed Computing (ISORC), [Newport Beach, CA, March 15-17, 2000], [KyounJu, Korea, April 24-26, 2006]</li>
+  <li>Program Co-Chair, IEEE International Symposium on Object-oriented Real-time distributed Computing (ISORC), Kyoto, Japan, April 20-22, 1998.</li>
+  <li>Program Co-Chair, International Workshop on Real-Time Computing Systems and Applications (RTCSA),         Seoul, Korea, Oct 30 - Nov 1, 1996.</li>
+  <li>Conference Co-Chair, CONCUR '95 - International Conference on Concurrency Theory, Philadelphia, PA, Aug 1995.</li>
+  <li>Program Co-Chair, International Workshop on Real-Time Computing Systems and Applications (RTCSA),         Seoul, Korea, Dec 1994.</li>
+  <li>General Co-chair, IEEE Real-Time Systems Symposium, Dec 1993.</li>
+  <li>Program Co-Chair, IEEE Real-Time Systems Symposium, Dec 1992.</li>
+  <li>Conference vice-chairman, KSEA Northeast Regional Conference, Lehigh University, Nov 1988.</li>
+</ul>
+
+<p><strong>Program Committees</strong></p>
+<ul>
+  <li>RTSS: IEEE Real-Time Systems Symposium (1985-1988, 1990, 1992, 1996, 1998-2002, 2004, 2006,                2007, 2008, 2009, 2010, 2011)</li>
+  <li>DSMDS 2011</li>
+  <li>EMSOFT: ACM Conference on Embedded Software (2003, 2004, 2005, 2008, 2011)</li>
+  <li>ISORC: IEEE International Symposium on Object-oriented Real-time distributed Computing (1998, 2002-2005,                2007, 2009, 2010, 2012)</li>
+  <li>RTAS: IEEE Real-Time and Embedded Technology and Applications Symposium (1990, 1998, 2000,                2001, 2004, 2007, 2009)</li>
+  <li>ICCPS: International Conference on Cyber-Physical Systems (2010)</li>
+  <li>DAC (2011)</li>
+  <li>FTRA WCC-WTA 2011, The 7th International Symposium on Wireless sensor network Technologies                and Applications for Smart Space (WTA 2011)</li>
+  <li>CPNS'2011 (The First International Workshop on Cyber-Physical Networking Systems) (2011)</li>
+  <li>RTCSA: International Conference on Real-Time Computing Systems and Applications (1994-1996, 1999, 2000,                2004, 2005, 2010, 2011)</li>
+  <li>ECRTS: Euromicro Conference on Real-Time Systems (1999, 2003, 2004)</li>
+  <li>ATVA: International Sypmposium on Autoated Technology for Verification and Analysis (2003, 2004, 2006, 2007,                2009, 2010, 2011)</li>
+  <li>Wireless Health 2011</li>
+  <li>BSN (Body Sensor Networks) 2010</li>
+  <li>LCTES 2009, ACM Conference on Languages, Compilers, and Tools fro Embedded Systems, Dublin, Irland</li>
+  <li>Foundations of Software Engineering in Health Informatics (SEHI), Johannesburg, South Africa, Aug                29-30, 2011.</li>
+  <li>IEEE PIMRC 11, Wireless Networks and Health Care Track, Sept 2011, Toronto, Canada.</li>
+  <li>FM2009, Eindhoven, the Netherlands.</li>
+  <li>SSS 2009, 11th International Symposium on Stabilization, Safety, and Security of Distributed Systems, Lyon,                France.</li>
+  <li>ICTAC (international Colloquium on Theoretical Aspects of Computing), Aug 2009.</li>
+  <li>ACM SAC track on Real-Time Systems (2009, 2011)</li>
+  <li>CSA (International Conference on Computer Science and its Applications), Jeju, Korea, Dec 2009</li>
+  <li>CASES: International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (2006)</li>
+  <li>ICCP: International Conference on Intelligent Computer Communication and Processing (2006)</li>
+  <li>ICSOFT: International Conference on Software and Data Technologies (2006, 2007)</li>
+  <li>FORMATS: International Conference on Formal Modeling and Analysis of Timed Systems (2005, 2007, 2008, 2009)</li>
+  <li>MEMOCODE: ACM-IEEE International Conference on Formal Methods and Models of Codesign (2005)</li>
+  <li>CASES: International Conference on Compilers, Architectures, and Synthesis for Embedded Systems (2006)</li>
+  <li>ICCP: International Conference on Intelligent Computer Communication and Processing (2006)</li>
+  <li>ICSOFT: International Conference on Software and Data Technologies (2006, 2007)</li>
+  <li>FORMATS: International Conference on Formal Modeling and Analysis of Timed Systems (2005, 2007, 2008, 2009)</li>
+  <li>ETFA: Emerging Technologies and Factory Automation, 2009</li>
+  <li>MEMOCODE: ACM-IEEE International Conference on Formal Methods and Models of Codesign (2005)</li>
+  <li>ICDCS: IEEE International Conference on Distributed Computer Systems (1999, 2001, 2003)</li>
+  <li>FORTE: Formal Techniques for Networked and Distributed Systems (2002)</li>
+  <li>EUC: IFIP International Conference on Embedded and Ubiquitous Computing, (2007)</li>
+  <li>ASP-DAC: Asia South Pacific Design Automation Conference (2005)</li>
+  <li>ICESS: International Conference on Embedded Software and Systems. (2004, 2007)</li>
+  <li>QSIC: International Conference for Quality Software (2003, 2004, 2005, 2006)</li>
+  <li>KSEA UKC ICT (Information &amp; Communication Technology) Symposium (2003, 2006)</li>
+</ul>
+
+<p><strong>Workshop Committees</strong></p>
+<ul>
+  <li>First Workshop on Future Directions in Cyber-physical Systems Security, US DHS, July 22-24, 2009.</li>
+  <li>RV: Workshop on Runtime Verification (2001, 2002, 2006, 2009)</li>
+  <li>IEEE Internationa lWorkshop on Component-Based Design of Resource-Constrained Systems (CORCS                2008, 2009)</li>
+  <li>WCPS: International Workshop on Cyber-Physical Systems (2009, 2008)</li>
+  <li>WSNHC: Wireless Sensor Networks for Health Care (2007)</li>
+  <li>HSCC: International Workshop on Hybrid Systems: Computation and Control (2005)</li>
+  <li>JTRES: Workshop on Java Technologies for Real-time and Embedded Systems (2005)</li>
+  <li>WORDS: IEEE International Workshop on Object-oriented Real-time Dependable Systems (1996, 1997, 1999,                2001, 2003, 2005)</li>
+  <li>TeleHealth: 1st International Workshop on TeleHealth 2008.</li>
+  <li>TPTS: Workshop on Theory and Practice of Timed Systems (2002)</li>
+  <li>WPDRTS: International Workshop on Parallel and Distributed Real-Time Systems (2000, 2001, 2002)</li>
+  <li>RSP: IEEE International Workshop on Rapid System Prototyping (2000, 2001)</li>
+  <li>IEEE International Workshop on Distributed Real Time Systems (2000)</li>
+  <li>ARO/NSF Monterey Workshop on Increasing the Practical Impact of Formal Methods for Computer-Aided Software Development (1998)</li>
+  <li>ACM Workshop on Language, Compiler, and Tool Support for Real-Time Systems (1995)</li>
+  <li>Formal Tech in Real Time and Fault Tolerant Systems, Schleswig, Germany (1994)</li>
+  <li>North America Process Algebra Workshop, Ithaca, NY, Aug 1993.</li>
+</ul>
+
+<p><strong>Professional Activities - Miscellaneous</strong></p>
+<ul>
+  <li>Advisory Member, KOCSEA President Election Board, 2009.</li>
+  <li>Organization Committees:</li>
+    <ul>
+      <li>Workshop on Software Engineering and Programming Languages (1996)</li>
+      <li>Mini-track Coordinator for Distributed Real-Time Systems, Hawaii International Conference on System Sciences                (1996)</li>
+      <li>ARO Workshop on Formal Methods: Automatic Verification (1993)</li>
+      <li>ARO Workshop on Formal Methods: Real-Time Systems (1992)</li>
+      <li>ARO Short Courses on Introduction to Parallel Architectures, Processing and AI Applications (1986,                1987, 1988)</li>
+      <li>Local arrangements, 8th International Symposium on Protocol Specification, Testing, and Verification (1988)</li>
+    </ul>
+  <li>NSF Proposal Review Panels</li>
+  <li>Award Selection Committee, &quot;Being an Korean-American&quot; essay contest for high school students,                Philip Jaisohn Memorial Foundation. (1996-2001)</li>
+  <li>Board of Advisors for KASCON VIII (Korean-American Students Conference) Philiadelphia, PA (April                1994).</li>
+  <li>Ph.D. Program Evaluation Team for Computer Science and System Science Department, State University                of NY at Binghamton, Sept 1992.         </li>
+</ul>
+
+
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+            <!--#include virtual="../includes/global_professional.html"-->
+            </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

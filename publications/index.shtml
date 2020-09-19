@@ -1,0 +1,170 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/pub_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="1" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_publications.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="on">Recent Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="books.shtml" class="subnav">Books</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="journals.shtml" class="subnav">Journal Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="chapters.shtml" class="subnav">Book Chapters</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="conferences.shtml" class="subnav">Conference Papers</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="area.shtml" class="subnav">Selected Papers by Area</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="other.shtml" class="subnav">Other</a>
+
+
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+ 				<p><strong><a href="http://repository.upenn.edu/cis_papers/856">Calibrated Prediction with Covariate Shift via Unsupervised Domain Adaptation</a></strong>. Sangdon Park, Osbert Bastani, James Weimer, and Insup Lee. To appear in Proceedings of <em> 23rd International Conference on Artificial Intelligence and Statistics (AISTATS 2020)</em>, Palermo, Italy, June 2020. </p> 				<!---  June 3-5, 2020. --->
+ 				<p><strong><a href="http://repository.upenn.edu/cis_papers/858">PAC Confidence Sets for Deep Neural Networks via Calibrated Prediction</a></strong>. Sangdon Park, Osbert Bastani, Nikolai Matni, and Insup Lee. To appear in Proceedings of <em> International Conference on Learning Representations (ICLR 2020)</em>, Addis Ababa, Ethiopia, April 2020. </p> 				<!---  April 26-30, 2020. --->
+ 				<p><strong><a href="http://repository.upenn.edu/cis_papers/860">Case Study: Verifying the Safety of an Autonomous Racing Car with a Neural Network Controller</a></strong>. Radoslav Ivanov, Taylor J. Carpenter, James Weimer, Rajeev Alur, George Pappas, and Insup Lee. To appear in Proceedings of <em> 23rd ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2020)</em>, Sydney, Australia, April 2020. <strong>(Received HSCC repeatability badge)</strong></p> 		<!---  April 21-24, 2020. --->
+				<p><strong><a href="https://arxiv.org/abs/1909.05304">Reinforcement Learning for Temporal Logic Control Synthesis with Probabilistic Satisfaction Guarantees</a></strong>.M. Hasanbeig, Y. Kantaros, A. Abate, D. Kroening, G. J. Pappas, I. Lee. In Proceedings of <em>58th IEEE Conference on Decision and Control (CDC 2019)</em>, Nice, France, December 2019.</p> 				<!---  December 11-13, 2019 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/851">Detecting Security Leaks in Hybrid Systems with Information Flow Analysis</a></strong>. Luan Viet Nguyen, Gautam Mohan, James Weimer, Oleg Sokolsky, Insup Lee, and Rajeev Alur. In Proceedings of <em> 17th ACM-IEEE International Conference on Formal Methods and Models for Codesign (MemoCODE 2019)</em>, San Diego, CA, USA, October 2019. <strong>(Best Paper Award).</strong></p> 				<!---  October 9 - 11, 2019 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/852">Overhead-aware deployment of runtime monitors</a></strong>. Teng Zhang, Greg Eakman, Insup Lee, and Oleg Sokolsky. In Proceedings of <em> 19th International Conference on Runtime Verification (RV 2019)</em>, Porto, Portuga, October 2019.</p> 				<!---  October 8 - 11, 2019 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/853">A Retrospective Look at the Monitoring and Checking (MaC) Framework</a></strong>. Sampath Kannan, Moonzoo Kim, Insup Lee, Oleg Sokolsky, and Mahesh Viswanathan. In Proceedings of <em> 19th International Conference on Runtime Verification (RV 2019)</em>, Porto, Portuga, October 2019.</p> 				<!---  October 8 - 11, 2019 --->
+            <p><strong><a href="http://repository.upenn.edu/cis_papers/855">Runtime verification of parametric properties using SMEDL</a></strong>. Teng Zhang, Ramneet Kaur, Insup Lee, and Oleg Sokolsky.  In <em>Reactive Systems to Cyber-Physical Systems</em> Lecture Notes in Computer Science, vol 11500, 276-293. September 2019. </p>
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/850">Holistic resource allocation for multicore real-time systems</a></strong>. Meng Xu, Linh T.X. Phan, Hyon-Young Choi, Yuhan Lin, Haoran Li, Chenyang Lu, and Insup Lee. In Proceedings of <em> IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2019)</em>, Montreal, Canada, April 2019. <strong>(Best Paper Award).</strong></p> 				<!---  April 15-18, 2019 --->
+ 				<p><strong><a href="http://repository.upenn.edu/cis_papers/859">Verisig: verifying safety properties of hybrid systems with neural network controllers</a></strong>. Radoslav Ivanov, James Weimer, Rajeev Alur, George J. Pappas, and Insup Lee. In Proceedings of <em>22nd ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2019)</em>, Montreal, Canada, April 2019. </p> 				<!---  April 16-18, 2019. --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/857">LCV: A Verification Tool for Linear Controller Software</a></strong>. Junkil Park, Miroslav Pajic, Oleg Sokolsky, and Insup Lee. In Proceedings of <em>Junkil Park, Miroslav Pajic, Oleg Sokolsky, and Insup Lee</em>, Prague, Czech Republic, April 2019.</p> 				<!---  April 8-11, 2019 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/849">Reducing Pulse Oximetry False Alarms Without Missing Life-Threatening Events</a></strong>. Hung Nguyen, Sooyong Jang, Radoslav Ivanov, Christopher P. Bonafide, James Weimer, and Insup Lee. In Proceedings of <em>IEEE/ACM Conference on Connected Health: Applications, Systems and Engineering Technologies (CHASE 2018)</em>, Washington, D.C., USA, September 2018.</p> 				<!---  September 26-28, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/854">Correct-by-construction implementation of runtime monitors using stepwise refinement</a></strong>. Teng Zhang, John Wiegley, Theophilos Giannakopoulos, Gregory Eakman, Clement Pit-Claudel, Insup Lee, and Oleg Sokolsky. In Proceedings of <em>International Symposium on Dependable Software Engineering: Theories, Tools, and Applications (SETTA 2018)</em>, Beijing, China, September 2018.</p> 				<!---  September 4-6, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/848">Bandwidth Optimal Data/Service Delivery for Connected Vehicles via Edges</a></strong>. Deepak Gangadharan, Oleg Sokolsky, Insup Lee, BaekGyu Kim, Chung-Wei Lin and Shinichi Shiraishi. In Proceedings of <em>IEEE International Conference on Cloud Computing (CLOUD 2018)</em>, San Francisco, CA, USA, July 2018.</p> 				<!---  July 2 - 7, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/838">Data Freshness Over-Engineering: Formulation and Results</a></strong>. Dagaen Golomb, Deepak Gangadharan, Sanjian Chen, Oleg Sokolsky, and Insup Lee. In Proceedings of <em>IEEE ISORC 2018</em>, Singapore, May 2018 <strong>(Best Paper Award)</strong>.</p> 				<!---  May 29 - 31, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/841">OpenICE-lite: Towards a Connectivity Platform for the Internet of Medical Things</a></strong>. Radoslav Ivanov, Hung Nguyen, James Weimer, Oleg Sokolsky, and Insup Lee. In Proceedings of <em>IEEE ISORC 2018</em>, Singapore, May 2018.</p> 				<!---  May 29 - 31, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/843">Generic Formal Framework for Compositional Analysis of Hierarchical Scheduling Systems</a></strong>. Jalil Boudjadar, Jin Hyun Kim, Linh Thi Xuan Phan, Insup Lee, Kim G. Larsen, Ulrik Nyman. In Proceedings of <em>IEEE ISORC 2018</em>, Singapore, May 2018.</p> 				<!---  May 29 - 31, 2018 --->
+               <p><strong><a href="https://ieeexplore.ieee.org/document/8059775">MC-Fluid: Multi-Core Fluid-Based Mixed-Criticality Scheduling</a></strong>. Jaewoo Lee, Saravanan Ramanathan, Kieu-My Phan, Arvind Easwaran, Insik Shin, and Insup Lee. In <em> IEEE  Transactions on Computers</em>, Volume 67, Issue 4, pp. 469-483, April 2018.</p> 
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/834">LogSafe: Secure and Scalable Data Logger for IoT Devices</a></strong>. Hung Nguyen, Radoslav Ivanov, Linh T.X. Phan, Oleg Sokolsky, James Weimer, and Insup Lee. In Proceedings of <em>3rd ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI 2018)</em>, Orlando, FL, USA, April 2018.</p>  <!---  April 17 - 20, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/840">Joint Rate Control and Demand Balancing for Electric Vehicle Charging</a></strong>. Fanxin Kong, Xue Liu, Insup Lee. In Proceedings of <em>3rd ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI 2018)</em>, Orlando, FL, USA, April 2018.</p>  <!---  April 17 - 20, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/835">Context-Aware Detection in Medical Cyber-Physical Systems</a></strong>. Radoslav Ivanov, James Weimer, and Insup Lee. In Proceedings of <em>9th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2018)</em>, Porto, Portugal, April 2018.</p>  <!---  April 11 - 13, 2018 --->
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/839">Cyber-Physical System Checkpointing and Recovery</a></strong>. Fanxin Kong, Meng Xu, James Weimer, Oleg Sokolsky, Insup Lee. In Proceedings of <em>9th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2018)</em>, Porto, Portugal, April 2018.</p>  <!---  April 11 - 13, 2018 --->               
+               <p><strong><a href="https://ieeexplore.ieee.org/document/8443750">KRS-DGIST: a resilient CPS testbed for radio-based train control: WiP abstract.</a></strong>. Yuchang Won, Buyeon Yu, Jaegeun Park, In-Hee Park, Haegeon Jeong, Jeanseong Baik, Kyungtae Kang, Insup Lee, Kyung-Joon Park, Yongsoon Eun. In Proceedings of <em>9th ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS 2018)</em>, Porto, Portugal, April 2018.</p>  <!---  April 11 - 13, 2018 --->               
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/836">Parameter Invariant Monitoring for Signal Temporal Logic</a></strong>. Nima Roohi, Ramneet Kaur, James Weimer, Oleg Sokolsky, and Insup Lee. In Proceedings of <em>21st ACM International Conference on Hybrid Systems: Computation and Control (HSCC 2018)</em>, Porto, Portugal, April 2018.</p>  <!---  April 11 - 13, 2018 --->
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/847">Multi-Mode Virtualization for Soft Real-Time Systems</a></strong>. Haoran Li, Meng Xu, Chong Li, Chenyang Lu, Christopher Gill, Linh T. X. Phan, Insup Lee, and Oleg Sokolsky. In Proceedings of <em>IEEE Real-Time and Embedded Technology and Applications Symposium (RTAS 2018)</em>, Porto, Portugal, April 2018.</p>  <!---  April 11 - 13, 2018 --->
+
+
+
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+            <p class="h2">Relevant Publications</p>
+              <ul>
+              <li><a href="https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en" class="subnav" target="_blank">Google Scholar</a> </li>
+              <li><a href="http://dblp.uni-trier.de/pers/hd/l/Lee:Insup" class="subnav" target="_blank">DBLP</a> </li>
+              <br>
+              
+              <li><a href="http://repository.upenn.edu/precise/" class="subnav">PRECISE Publications</a> </li>
+              <li><a href="http://rtg.cis.upenn.edu/publications.php3" class="subnav">RTG Publications</a> </li>
+              </ul>
+              </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

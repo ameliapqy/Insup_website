@@ -1,0 +1,334 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/interior.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Insup Lee</title>
+	<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		<!-- InstanceBeginEditable name="Secondary navigation" -->
+		<img src="../images/hdr_teaching.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<!---
+<a href="file:///C|/Users/Mama/Documents/UPenn/test/index.shtml" class="on">sub nav</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#" class="subnav">sub nav</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#" class="subnav">sub nav</a>
+--->
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		<!-- InstanceEndEditable -->
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<p class="h1">Undergraduate</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+    <tr>
+    <td width="14%">Spring 2014</td>
+    <td width="13%">CIS 400/401</td>
+    <td width="73%"><a href="http://www.seas.upenn.edu/~cse400/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+    <tr>
+    <td width="14%">Fall 2013</td>
+    <td width="13%">CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+    <tr>
+    <td width="14%">Spring 2013</td>
+    <td width="13%">CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+    <tr>
+    <td width="14%">Fall 2012</td>
+    <td width="13%">CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+    <tr>
+    <td width="14%">Spring 2012</td>
+    <td width="13%">CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+  <tr>
+    <td>Fall 2011</td>
+    <td>CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+     <tr>
+    <td>Spring 2011</td>
+    <td>CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/CSE400_2010_2011/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+   <tr>
+    <td>Fall 2010</td>
+    <td>CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/CSE400_2010_2011/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+  <tr>
+    <td>Fall 2010</td>
+    <td>CIS 441</td>
+    <td><a href="http://www.seas.upenn.edu/~lee/10cis441/" target="_blank">Embedded Software for Life-Critical Applications </a></td>
+  </tr>
+   <tr>
+    <td>Spring 2010</td>
+    <td>CIS 400/401 </td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/CSE400_2009_2010/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+  <tr>
+    <td>Fall 2009</td>
+    <td>CIS 400/401</td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/CSE400_2009_2010/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+    <tr>
+    <td>Spring 2009</td>
+    <td>CIS 480</td>
+    <td><a href="http://www.seas.upenn.edu/~lee/09cis480/" target="_blank">Embedded and Cyber Physical Systems </a></td>
+  </tr>
+     <tr>
+    <td>Spring 2009</td>
+    <td>CIS 400/401 </td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/CSE400_2008_2009/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+   <tr>
+    <td>Fall 2008</td>
+    <td>CIS 400/401 </td>
+    <td><a href="http://www.seas.upenn.edu/~cse400/CSE400_2008_2009/" target="_blank">Senior Design Projects  </a></td>
+  </tr>
+  <tr>
+    <td>Fall 2006</td>
+    <td>CSE 480</td>
+    <td><a href="http://www.cis.upenn.edu/~lee/06cse480/" target="_blank">Real-Time and Embedded Systems </a></td>
+  </tr>
+  <tr>
+    <td>Fall 2003</td>
+    <td>CSE 380</td>
+    <td><a href="http://www.cis.upenn.edu/~lee/03cse380/" target="_blank">Introduction to Operating Systems </a></td>
+  </tr>
+  <tr>
+    <td>Fall 2000</td>
+    <td>CSE 380</td>
+    <td>Introduction to Operating Systems </td>
+  </tr>
+  <tr>
+    <td>Spring 1996</td>
+    <td>CSE 480</td>
+    <td><a href="http://www.cis.upenn.edu/~lee/cse480.html" target="_blank">Distributed and Real-Time Systems</a> (also taught Spring '94)</td>
+  </tr>
+</table>
+<hr>
+<p class="h1">Graduate</p>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+  <tr>
+    <td width="14%">Fall 2014</td>
+    <td width="13%">CIS 441/541</td>
+    <td width="73%"><a href="http://www.seas.upenn.edu/~lee/10cis441/" target="_blank">Embedded Software for Life-Critical Applications </a></td>
+  </tr>
+   <tr>
+    <td width="14%">Fall 2013</td>
+    <td width="13%">CIS 441/541</td>
+    <td><a href="http://www.seas.upenn.edu/~lee/10cis441/" target="_blank">Embedded Software for Life-Critical Applications </a></td>
+  </tr>
+  
+  <tr>
+    <td width="14%">Fall 2012</td>
+    <td width="13%">CIS 441/541</td>
+    <td><a href="http://www.seas.upenn.edu/~lee/10cis441/" target="_blank">Embedded Software for Life-Critical Applications </a></td>
+  </tr>
+  
+  <tr>
+    <td width="14%">Fall 2011</td>
+    <td width="13%">CIS 441/541</td>
+    <td><a href="http://www.seas.upenn.edu/~lee/10cis441/" target="_blank">Embedded Software for Life-Critical Applications </a></td>
+  </tr>
+  
+ 
+  <tr>
+    <td width="14%">Fall 2010</td>
+    <td width="13%">CIS 541</td>
+    <td><a href="http://www.seas.upenn.edu/~lee/10cis441/" target="_blank">Embedded Software for Life-Critical Applications </a></td>
+  </tr>
+    <tr>
+    <td>Spring 2010</td>
+    <td>CIS 541 </td>
+    <td><a href="http://www.seas.upenn.edu/~lee/10cis541/" target="_blank">Embedded and Cyber Physical Systems </a></td>
+  </tr>
+    <tr>
+    <td>Spring 2009</td>
+    <td>CIS 899</td>
+    <td><a href="http://www.seas.upenn.edu/~lee/09cis480/" target="_blank">Embedded and Cyber Physical Systems </a></td>
+  </tr>
+  <tr>
+    <td>Spring 2007</td>
+    <td>CIS 505</td>
+    <td><a href="http://www.cis.upenn.edu/~lee/07cis505/" target="_blank">Software Systems </a></td>
+  </tr>
+  <tr>
+    <td>Spring 2006</td>
+    <td>CIS 505</td>
+    <td><a href="http://www.cis.upenn.edu/~lee/07cis505/" target="_blank">Software Systems </a></td>
+  </tr>
+  <tr>
+    <td>Spring 2005</td>
+    <td>CIS 505</td>
+    <td><a href="http://www.cis.upenn.edu/~lee/07cis505/" target="_blank">Software Systems </a></td>
+  </tr>
+  
+  <tr>
+    <td>Fall 2005</td>
+    <td>CIS 700 </td>
+    <td>Integration of Embedded-System Components <a href="http://www.cis.upenn.edu/~lee/05cis700/" target="_blank">Principles and Practice</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2004</td>
+    <td>CIS 640 </td>
+    <td>Advanced Topics in Software Systems: Embedded Systems and Sensor Networks</td>
+  </tr>  
+  <tr>
+    <td>Fall 2004</td>
+    <td>CIS 700 </td>
+    <td><a href="http://www.cis.upenn.edu/~lee/04cis700/" target="_blank">Advanced Topics in Embedded Systems</a></td>
+  </tr>
+  <tr>
+    <td valign="top">Fall 2002</td>
+    <td>CIS 640 </td>
+    <td>Advanced Topics in Software Systems <a href="http://www.cis.upenn.edu/~lee/02cis640/" target="_blank">Software Reliability Methods and Embedded Systems</a></td>
+  </tr>
+  <tr>
+    <td>Spring 2001</td>
+    <td>CIS 642</td>
+    <td><a href="http://www.cis.upenn.edu/~lee/01cis642/" target="_blank">Seminar in Distributed and Real-Time Computing  </a></td>
+  </tr>
+  <tr>
+    <td>Spring 2001</td>
+    <td>EMTM 553 </td>
+    <td><a href="http://www.cis.upenn.edu/~lee/01emtm553/" target="_blank">Electronic Commerce Systems </a></td>
+  </tr>
+  <tr>
+    <td>Winter 2001</td>
+    <td>EMTM 553 </td>
+    <td><a href="http://www.cis.upenn.edu/~lee/00emtm553/" target="_blank">Electronic Commerce Systems </a></td>
+  </tr>
+  <tr>
+    <td>Spring 2000</td>
+    <td>CIS 640 </td>
+    <td>Advanced Topics in Software Systems <a href="http://www.cis.upenn.edu/~lee/00cis640/00cis640.html" target="_blank">Electronic Commerce Systems</a></td>
+  </tr>
+  <tr>
+    <td>Spring 1999</td>
+    <td>CIS 642 </td>
+    <td><a href="http://www.cis.upenn.edu/~lee/99cis642.html" target="_blank">Seminar in Distributed and Real-Time Computing  </a></td>
+  </tr>
+  <tr>
+    <td>Spring 1998</td>
+    <td>CIS 640 </td>
+    <td>Advanced Topics in Software Systems <a href="http://www.cis.upenn.edu/~lee/98cis640/98cis640.html" target="_blank">Mobile Computing</a></td>
+  </tr>
+  <tr>
+    <td>Spring 1997</td>
+    <td>CIS 642 </td>
+    <td><a href="http://www.cis.upenn.edu/~lee/97cis642.html" target="_blank">Seminar in Distributed and Real-Time Computing  </a></td>
+  </tr>
+ <tr>
+    <td>Spring 1995</td>
+    <td>CIS 640 </td>
+    <td>Advanced Topics in Software Systems: Software Engineering: Testing </td>
+  </tr>
+</table>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+            <span class="h2">Master of Science in Engineering in EMBEDDED SYSTEMS (<a href="http://www.cis.upenn.edu/grad/embedded.shtml" target="_blank">EMBS</a>)</span> 
+			</td>
+			<!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

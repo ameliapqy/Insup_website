@@ -1,0 +1,158 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/pub_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="2" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_publications.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Recent Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="books.shtml" class="on">Books</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="journals.shtml" class="subnav">Journal Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="chapters.shtml" class="subnav">Book Chapters</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="conferences.shtml" class="subnav">Conference Papers</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="area.shtml" class="subnav">Selected Papers by Area</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="other.shtml" class="subnav">Other</a>
+
+
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+              <p class="h1">Edited Volums</p>
+ 
+              <p><strong>Runtime Verification</strong>. H. Barringer, Y. Falcone, B. Finkbeiner, K. Havelund, I. Lee, G. Pace, G. Rosu,
+O. Sokolsky, N. Tillmann (Eds.). <em>First International Conference, RV 2010</em>. LNCS 6418, Nov 1-4, 2010. </p>
+ 
+              <p><strong>Special Issue on Real-Time Wireless Sensor Networks</strong>. Guest Editors: Chenyang Lu and Insup Lee. <em>Real-Time Systems</em>. Springer Netherlands, 37 (3), Dec 2007. </p>
+
+              <p><strong>Handbook of Real-Time and Embedded Systems</strong>.  Edited by Insup Lee, Joseph Y-T. Leung and Sang Son. <em></em>. CRC Press, Boca Raton, FL., U.S.A., 2007. </p>
+
+              <p><strong>Special Issue of EMSOFT 2003</strong>. Rajeev Alur and Insup Lee, Eds. <em></em>. ACM TECS, 4 (4), 2006. </p>
+
+              <p><strong>EMSOFT 2003</strong>. Rajeev Alur and Insup Lee, Eds. <em>Lecture Note in Computer Science 2855</em>. Springer-Verlag Heidelberg, 2003. </p>
+
+              <p><strong>Concur '95: Concurrency Theory</strong>. Insup Lee and Scott A. Smolka, Eds. <em>Lecture Note in Computer Science 962</em>. Springer-Verlag, 1995. </p>
+
+<p>&nbsp;</p>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+            <p class="h2">Relevant Publications</p>
+              <ul>
+              <li><a href="https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en" class="subnav" target="_blank">Google Scholar</a> </li>
+              <li><a href="http://dblp.uni-trier.de/pers/hd/l/Lee:Insup" class="subnav" target="_blank">DBLP</a> </li>
+              <br>
+              
+              <li><a href="http://repository.upenn.edu/precise/" class="subnav">PRECISE Publications</a> </li>
+              <li><a href="http://rtg.cis.upenn.edu/publications.php3" class="subnav">RTG Publications</a> </li>
+              </ul>
+              </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

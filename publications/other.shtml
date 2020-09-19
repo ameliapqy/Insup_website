@@ -1,0 +1,152 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/pub_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="8" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_publications.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Recent Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="books.shtml" class="subnav">Books</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="journals.shtml" class="subnav">Journal Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="chapters.shtml" class="subnav">Book Chapters</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="conferences.shtml" class="subnav">Conference Papers</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="area.shtml" class="subnav">Selected Papers by Area</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="other.shtml" class="on">Other</a>
+
+
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+                           <p><strong><a href="http://repository.upenn.edu/cis_reports/987/">A Modal Specification Theory for Timing Variability</a></strong>. Andrew King, Oleg Sokolsky, and Insup Lee,  <em>University of Pennsylvania Department of Computer and Information Science Technical Report,  No. MS-CIS-13-11</em>, November 2013.</p>
+
+              <p><strong><a href="http://repository.upenn.edu/cis_reports/908">Verifiable Policy-based Routing with DRIVER</a></strong>,   Anduo Wang, Changbin Liu, Boon Thau Loo, Oleg Sokolsky, and Prithwash Basu, <i>University of Pennsylvania Department of Computer and Information Science Technical Report No. MS-CIS-09-12</i>,  January  2009.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_reports/887"> Analysis of AADL Models Using Real-Time Calculus with Applications to Wireless Architectures</a></strong>,  Oleg Sokolsky and Alexander Chernoguzov, <i>University of Pennsylvania Department of Computer and Information Science Technical Report No. MS-CIS-08-25</i>,  July 2008.</p>
+ 			<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/MS-CIS-98-22.pdf">Symbolic weak Bisimulation for Value-Passing Calculi</a></strong>,  Hee-Hwan Kwak, Jin-Young Choi, Insup Lee and Anna Philippou,  <i>University of Pennsylvania Department of Computer and Information Science </i><i>Technical Report MS-CIS-98-22,</i> May 1998.</p>
+ <p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/haneneDiss.pdf">GCSR: A Graphical Language for the Specification, Refinementt, and Analysis of Real-Time Systems</a></strong>, Han&ecirc;ne Ben-Abdallah,  <i>PhD Dissertation, Department of Computer and Information Science, University of Pennsylvania</i>, Aug 1996.</p>
+ <p><strong><a href="http://repository.upenn.edu/cis_reports/182">A Hybrid Approach to Formal Verification Applied to an ATM Switching System</a></strong>, Duncan Clarke and Insup Lee,  <i>University of Pennsylvania Department of Computer and Information Science Technical Report MS-CIS-96-04,</i> 1996.</p>
+<p><strong><a href="http://repository.upenn.edu/cis_reports/288">Motivating Time As A First Class Entity</a></strong>, Insup Lee, Susan Davidson, and Victor Wolfe,  <i>University of Pennsylvania Department of Computer and Information Science Technical Report MS-CIS-87-54,</i> Aug. 1987. (Revised Oct 1987).</p>
+           <p class="h1">&nbsp;</p>
+              <p>&nbsp;</p>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+             <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+           <p class="h2">Relevant Publications</p>
+              <ul>
+              <li><a href="https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en" class="subnav" target="_blank">Google Scholar</a> </li>
+              <li><a href="http://dblp.uni-trier.de/pers/hd/l/Lee:Insup" class="subnav" target="_blank">DBLP</a> </li>
+              <br>
+              
+              <li><a href="http://repository.upenn.edu/precise/" class="subnav">PRECISE Publications</a> </li>
+              <li><a href="http://rtg.cis.upenn.edu/publications.php3" class="subnav">RTG Publications</a> </li>
+              </ul>
+              </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

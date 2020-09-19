@@ -1,0 +1,166 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/pub_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="4" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_publications.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Recent Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="books.shtml" class="subnav">Books</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="journals.shtml" class="subnav">Journal Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="chapters.shtml" class="on">Book Chapters</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="conferences.shtml" class="subnav">Conference Papers</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="area.shtml" class="subnav">Selected Papers by Area</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="other.shtml" class="subnav">Other</a>
+
+
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+            <p><strong><a href="https://link.springer.com/chapter/10.1007/978-3-319-51394-2_23">Modeling Opportunities in mHealth Cyber-Physical Systems</a></strong>. Wendy Nilsen, Emre Ertin, Eric B. Hekler, Santosh Kumar, Insup Lee, Rahul Mangharam, Misha Pavel, James M. Rehg, William T. Riley, Daniel E. Rivera, Donna Spruijt-Metz.  In <em>Mobile Health - Sensors, Analytic Methods, and Applications</em>. 2017. pp 443-453 </p>
+             <p><strong><a href="http://repository.upenn.edu/cis_papers/406">An Evaluation Framework for Reputation Management Systems</a></strong>. Andrew G. West, Sampath Kannan, Insup Lee, and Oleg Sokolsky.  In <em>Trust Modeling and Management in Digital Environments:   From Social Concept to System Development (Zheng Yan, ed.)</em>. 2009. </p>
+<p><Strong>Compositional Real-Time Schedulability Analysis. </Strong>Insik Shin and Insup Lee. In <i>Handbook of Real-Time and Embedded Systems , Edited by Insup Lee, Joseph Y-T. Leung and Sang H. Son, CRC Press,</i> 2007. </p>
+<p><Strong>Temporal Control in Real-Time Systems: Language and Systems. </Strong>Sebatian Fischmeister and Insup Lee. In <i>Handbook of Real-Time and Embedded Systems, Edited by Insup Lee, Joseph Y-T. Leung and Sang H. Son, CRC Press,</i> 2007. </p>
+<p><Strong>Overview of the HASTEN (High Assurance Systems, Tools, and Environments) Project. </Strong>I. Lee, R. Alur, B. Cook, C. Gunter, E. Gunter, S. Kannan, K. Shin, and O. Sokolsky. In <i>Information Security Research, New Methods for Protecting Against Cyber Threats, Wiley, </i>2007. pp. 270-296 </p>
+<p><Strong>Hierarchical Modeling and Analysis of Embedded Systems. </Strong>R. Alur, T. Dang, J. Esposito, Y. Hur, F. Ivancic, V. Kumar, I. Lee, P. Mishra, G. Pappas, and O. Sokolsky. In <i>Information Security Research, New Methods for Protecting Against Cyber Threats, Wiley, </i>2007. pp. 297-314. (Reprint of 2003 IEEE Proceedings paper) </p>
+<p><Strong>Anomaly and Misuse Detection in Network Trac Streams - Checking and Machine Learning Approaches. </Strong>S. Kannan, I. Lee, W. Lee, O. Sokolsky, D. Spears, and W. Spears. In <i>Information Security Research, New Methods for Protecting Against Cyber Threats, Wiley, </i>2007. pp. 88-99. </p>
+<p><Strong>A Compositional Framework for Real-Time Embedded Systems. </Strong>Insik Shin and Insup Lee. In <i>Service Availability: Second International Service Availability Symposium, ISAS 2005, Berlin, Germany, Editors Miroslaw Malek, Edgar Nett, Neeraj Suri, Lecture Note in Computer Science 3694, Springer-Verlag Heidelberg, </i>2005. pp. 137-148. </p>
+<p><Strong>Fair Real-Time Scheduling over a Wireless LAN. </Strong>Insup Lee, Insik Shin, Sanjeev Khanna. <i>Resource Management in Wireless Networking, edited by Mihaela Cardei, Ionut Cardei, and Ding-Zhu Du, Kluwer, </i>Oct 2003. (published in 2004) </p>
+<p><Strong>Software Reliability, Verification and Validation. </Strong>Insup Lee. In <i>Research Trend Study - Computers and Communications, edited by Kane Kim, Wonmo Hong and Se-June Hong, KSEA (Korean-American Scientist and Engineers Association) and KOSEF (Korean Science and Engineering Foundation), </i>1996. </p>
+ <p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/paper.pdf">A Process Algebraic Method for Real-Time Systems</a></strong>, Insup Lee, Han&ecirc;ne Ben-Abdallah, and Jin-Young Choi, <i>Formal Methods for Real-Time Computing</i> C.Heitmeyer and D.Mandrioli <i>(eds.)</i>, John Wiley &amp; Sons Ltd, 1996.</p>
+<p><Strong>The Algebra of Communicating Shared Resources and Its Toolkit. </Strong>Insup Lee, Duncan Clarke and Hong-Liang Xie. In <i>Advances in Real-Time Systems, edited by S. Son, Prentice Hall,</i>  1995, pp. 275-298. </p>
+<p><Strong>A Proof System for Communicating Shared Resources. </Strong>Richard Gerber and Insup Lee. In <i>Tutorial on Real-Time Systems - Abstractions, Languages, and Design Methodologies, Edited by Krishna M. Kavi, IEEE, </i>1992. (Reprint of the same paper appeared in<em> Proc. IEEE Real-Time Systems Symposium</em>, 1990.) </p>
+ <p><strong><a href="http://repository.upenn.edu/cis_reports/656">Language Constructs for Distributed Real-Time Programming</a></strong>, Insup Lee and Vijay Gehlot,  in Tutorial on <i>Real-Time Systems - Abstractions, Languages, and Design Methodologies</i>, Edited by Krishna M. Kavi, IEEE, 1992. (Reprint of the same paper appeared in Proceedings of <i>IEEE Real-Time Systems Symposium</i>,
+San Diego, California, Dec. 1985.)</p>
+<p><Strong>Communicating Shared Resources: A Paradigm for Integrating Real-Time Specication and Implementation. </Strong>Insup Lee, Susan Davidson and Rich Gerber. In <i>Foundations of Real-Time Computing: Formal Methods, edited by A. van Tilborg and G. Koob, Kluwer Pub, </i>1991, pp. 87-109. </p>
+<p><Strong>Adding Time to Synchronous Process Communications. </Strong>Insup Lee and Susan Davidson. In <i>Tutorial on Hard Real-Time Systems, Edited by J.A. Stankovic and K. Ramamritham, IEEE </i>1988. (Reprint of the same article appeared in<em> IEEE Transactions on Computers</em>, August 1987.) </p>
+<p><Strong>Partitioning of Massive/Real-Time Programs for Parallel Processing. </Strong>Insup Lee, Noah Prywes and Boleslaw Szymanski. In <i>Advances in Computers, edited by M.C. Yovits, Prentice-Hall, </i>1986, pp. 215-275. </p>
+
+<p><Strong> </Strong> <i> </i> </p>
+
+
+              <p>&nbsp;</p>
+
+           <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+             <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+           <p class="h2">Relevant Publications</p>
+              <ul>
+               <li><a href="https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en" class="subnav" target="_blank">Google Scholar</a> </li>
+              <li><a href="http://dblp.uni-trier.de/pers/hd/l/Lee:Insup" class="subnav" target="_blank">DBLP</a> </li>
+              <br>
+             
+              <li><a href="http://repository.upenn.edu/precise/" class="subnav">PRECISE Publications</a> </li>
+              <li><a href="http://rtg.cis.upenn.edu/publications.php3" class="subnav">RTG Publications</a> </li>
+              </ul>
+              </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,201 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/pub_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="3" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_publications.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Recent Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="books.shtml" class="subnav">Books</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="journals.shtml" class="on">Journal Publications</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="chapters.shtml" class="subnav">Book Chapters</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="conferences.shtml" class="subnav">Conference Papers</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="area.shtml" class="subnav">Selected Papers by Area</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="other.shtml" class="subnav">Other</a>
+
+
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+               <p><strong><a href="https://ieeexplore.ieee.org/document/8059775">MC-Fluid: Multi-Core Fluid-Based Mixed-Criticality Scheduling</a></strong>. Jaewoo Lee, Saravanan Ramanathan, Kieu-My Phan, Arvind Easwaran, Insik Shin, and Insup Lee. In <em> IEEE  Transactions on Computers</em>, Volume 67, Issue 4, pp. 469-483, April 2018.</p> 
+               <p><strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/29190340">Continuous Glucose Monitoring for Hypoglycemia Avoidance and Glucose Counterregulation in Long-Standing Type 1 Diabetes</a></strong>. Michael R. Rickels, Amy J. Peleckis, Cornelia Dalton-Bakes, Joseph R. Naji, Nina Ran, Huong-Lan Nguyen, Shannon O'Brien, Sanjian Chen,Insup Lee, and Mark H. Schutta. In <em> The Journal of Clinical Endocrinology & Metabolism</em>, Volume 103, Issue 1, pp. 105-114, January 2018, published November 2017.</p> 
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/846">Parameter-Invariant Monitor Design for Cyber Physical Systems</a></strong>. James Weimer, Radoslav Ivanov, Sanjian Chen, Alexander Roederer, Oleg Sokolsky, and Insup Lee. In <em> Proceedings of the IEEE</em>, Volume 106, Issue 1 pp.71-92, January 2018, published September 2017.</p> 
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/832">Process Algebraic Approach to the Schedulability Analysis and Workload Abstraction of Hierarchical Real-Time Systems</a></strong>. Junkil Park, Insup Lee, Oleg Sokolsky, Dae Yon Hwang, Sojin Ahn, Jin-Young Choi, and Inhye Kang. In <em>Journal of Logical and Algebraic Methods in Programming (JLAMP)</em>, Volume 92, pp.1-18, November 2017.</p> 
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/844">Security of Cyber-Physical Systems in the Presence of Transient Sensor Faults</a></strong>. Junkil Park, Radoslav Ivanov, James Weimer, Miroslav Pajic, Sang Hyuk Son, and Insup Lee. In <em>ACM Transactions on Cyber-Physical Systems</em>, Volume 1 Issue 3, Article No. 15, July 2017.</p> 
+               <p><strong><a href="https://ieeexplore.ieee.org/document/7563303">Attack-Resilient State Estimation for Noisy Dynamical Systems</a></strong>. Miroslav Pajic, Insup Lee, George J. Pappas. In <em>IEEE Transactions on Control of Network Systems</em>, Volume 4 Issue 1, pp. 82-92, March 2017.</p> 
+ 			    <p><strong><a href="http://repository.upenn.edu/cis_papers/845">Design and Implementation of Attack-Resilient Cyber-Physical Systems</a></strong>. Miroslav Pajic, James Weimer, Nicola Bezzo, Oleg Sokolsky, George J. Pappas, and Insup Lee. In <em>IEEE Control Systems </em>, Volume 37 Issue 2, pp. 68-81, April 2017.</p> 
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/826">Data-driven Adaptive Safety Monitoring using Virtual Subjects in Medical Cyber-Physical Systems: A Glucose Control Case Study</a></strong>. Sanjian Chen, Oleg Sokolsky, James Weimer, and Insup Lee. In <em>Journal of Computer Science and Engineering</em>, Volume 10, Num.3, pp.75-84, September 2016 (Open Access).</p>  
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/809" target="_blank">Attack-Resilient Sensor Fusion for Safety-Critical Cyber-Physical Systems</a></strong>. Radoslav Ivanov, Miroslav Pajic, and Insup Lee. In <em>ACM Transactions on Embedded Computing Systems</em>,  Volume 15 Issue 1, February 2016.</p>  
+			   <p><strong><a href="http://repository.upenn.edu/cis_papers/786">Cache-Aware Compositional Analysis of Real-Time Multicore Virtualization Platforms</a></strong>. Meng Xu, Linh T.X. Phan, Oleg Sokolsky, Sisu Xi, Chenyang. Lu, Christopher D. Gill, and Insup Lee.  In <em>Real-Time Systems Journal</em>, Volume 51, Issue 6, pp 675-723,  November 2015, published online April 2015.</p>
+
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/788">Parameter-Invariant Design of Medical Alarms</a></strong>. James Weimer, Radoslav Ivanov, Alexander Roederer, Sanjian Chen, and Insup Lee.  In <em>IEEE Design & Test</em>, Volume 32, Issue 5, pp 9-16,  October 2015.</p>
+               <p><strong><a href="https://www.ncbi.nlm.nih.gov/pubmed/24715326?dopt=Citation">Prediction of Significant Vasospasm in Aneurysmal Subarachnoid Hemorrhage Using Automated Data</a></strong>. Alexander Roederer, John H. Holmes, Michelle J. Smith, Insup Lee, Soojin Park. In <em>Neurocrit Care</em>, Vol. 21, Num. 3, pp. 444-50, December 2014.</p>  <!--- December 2014 --->
+               <p><strong><a href="http://repository.upenn.edu/cis_papers/765">Safety-critical Medical Device Development using the UPP2SF Model Translation Tool</a></strong>. M. Pajic, Z. Jiang, O. Sokolsky, I. Lee and R. Mangharam.  In <em>ACM Transactions on Embedded Computing</em>, Volume 13 Issue 4s, Article No. 127, July 2014.</p>
+              <p><strong><a href="http://repository.upenn.edu/mlab_papers/52">Model-Driven Safety Analysis of Closed-Loop Medical Systems</a></strong>. Miroslav Pajic, Rahul Mangharam, Oleg Sokolsky, David Arney, Julian M. Goldman, and Insup Lee.  In <em>IEEE Transactions on Industrial Informatics</em>, 10(1), 2014, pp 3-16. Published in IEEE Xplore Early Access October 2012. </p>
+				<p><strong><a href="http://repository.upenn.edu/cis_papers/766/">AS-CRED: Reputation and Alert Service for Inter-domain Routing</a></strong>. Jian Chang, Krishna Venkatasubramanian, Andrew G. West, Sampath Kannan, Insup Lee, Boon Thau Loo, and Oleg Sokolsky.  In <em>IEEE Systems Journal</em>, Vol.  7(3), pp. 396-409, (September 2013).</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/777/">A Comparison of Compositional Schedulability Analysis Techniques for Hierarchical Real-Time Systems</a></strong>. Madhukar Anand, Sebastian Fischmeister, and Insup Lee.  In <em>ACM Transactions on Embedded Computing Systems (TECS)</em>, Volume 13 Issue 1, Article No. 2, August 2013.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/748/">Security and Interoperable Medical Device Systems, Part 2: Failures, Consequences and Classifications</a></strong>. Eugene Y. Vasserman, Krishna K. Venkatasubramanian, Oleg Sokolsky, and Insup Lee. In<em> IEEE Security & Privacy</em>. 10(6), pp 70 - 73, November-December 2012.
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/749/">Security and Interoperable Medical Device Systems: Part 1</a></strong>. Krishna K. Venkatasubramanian, Eugene Y. Vasserman, Oleg Sokolsky, and Insup Lee. In<em> IEEE Security & Privacy</em>. 10(5), pp 61 - 63, September-October 2012.           </p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/733">Trust in Collaborative Web Applications</a></strong>. Andrew West, Jian Chang, Krishna Venkatasubramanian,
+Insup Lee.  In <em>Elsevier Future Generation Computer Systems</em>, Volume 28, Issue 8, pp.1238–1251, October 2012 (Invited Paper). Based in part on <a href="http://repository.upenn.edu/cis_reports/943/">UPENN MS-CIS-10-33</a> technical report</p>
+
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/487">Challenges and Research Directions in Medical Cyber-Physical Systems</a></strong>. Insup Lee, Oleg Sokolsky, Sanjian Chen, John Hatcliff, Eunkyoung Jee, BaekGyu Kim, Andrew King, Margaret Mullen-Fortino, Soojin Park, Alexander Roederer, and Krishna Venkatasubramanian.  In <em>Special Issue on Cyber-Physical Systems, Proceedings of the IEEE</em>, Volume 100, Issue 1, pp.75-90, January 2012 (Invited Paper).</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/486">PADS:  An approach to modeling resource demand and supply for the formal analysis of hierarchical scheduling</a></strong>. Anna Philippou, Insup Lee, and Oleg Sokolsky.  In <em>Theoretical Computer Science</em>, Volume 413, Issue 1, 2012, pp.2-20. Manuscript Number: TCS-D-10-00731R2,         January 2012.</p>
+              <p><strong><a href="http://link.springer.com/article/10.1007/s12028-011-9540-9">Limitations of Threshold-Based Brain Oxygen Monitoring for Seizure Detection</a></strong>. Soojin Park, Alexander Roederer, Ram Mani, Sarah Schmitt, Peter D. LeRoux, Lyle H. Ungar, Insup Lee, Scott E. Kasner. In<em> Neurocritical Care</em>. December 2011, Volume 15, Issue 3, pp 469-476 </p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/456">Permission to speak: A logic for access control and conformance</a></strong>. Nikhil Dinesh, Aravind Joshi, Insup Lee, and Oleg Sokolsky.  In <em>Journal of Logic and Algebraic Programming</em>, Vol. 80(1), pp. 50-74, January 2011.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/435">Generating Reliable Code from Hybrid-Systems Models</a></strong>. Madhukar Anand, Sebastian Fischmeister,  Yerang Hur, Jesung Kim, and Insup Lee.  In <em>IEEE Transactions on Computers</em>, Vol. 59(9) pp. 1281--1294, September, 2010. </p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/418">Hardware Acceleration for Conditional State-Based Communication Scheduling on Real-Time Ethernet</a></strong>. Sebastian Fischmeister, Robert Trausmuth, and Insup Lee.  In <em>IEEE Transactions on Industrial Informatics</em>, Vol.5, no.3, pp. 325-337, August 2009. </p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/422"> Plug-and-Play for Medical Devices: Experiences from a Case Study</a></strong>,  David Arney, Sebastian Fischmeister, Julian M. Goldman, Insup Lee, and Robert Trausmuth, <i>Biomedical Instrumentation & Technology</i>,  Volume 43, Issue 4 (July-August 2009) p.313-317. </p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/401"> Dynamic Trust Management</a></strong>,  Matt Blaze, Sampath Kannan, Insup Lee, Oleg Sokolsky, Jonathan M. Smith, Angelos D. Keromytis, Wenke Lee, <i>IEEE Computer</i>,  Volume 42, Issue 2, February 2009, pp. 44-52. </p>
+              <p><strong><a href="http://doi.acm.org/10.1145/1347375.1347383"> Compositional Real-Time Scheduling Framework with Periodic Model</a></strong>,  Insik Shin and Insup Lee, <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, vol 7, no 3, April 2008.</p>
+              <p><strong><a href="http://doi.acm.org/10.1145/1331331.1331342"> A design framework for real-time embedded systems with code size and energy constraints</a></strong>,  Sheayun Lee, Insik Shin, Woonseok Kim, Insup Lee, Sang L. Min, <i>ACM Transactions on Embedded Computing Systems (TECS)</i>, vol 7, no 2, February 2008.</p>
+              <p><strong> <a href="http://repository.upenn.edu/cis_papers/345"> A Verifiable Language for Programming Communication Schedules</a></strong>,  S. Fischmeister, O. Sokolsky, and I. Lee, <i>IEEE Transactions on Computers</i>, Vol. 56, pp. 1505-1519, November 2007.</p>
+              <p><strong> <a href="http://repository.upenn.edu/cis_papers/337"> Resources in Process Algebra</a></strong>,  Insup Lee, Anna Philippou, Oleg Sokolsky, <i>Journal of Logic and Algebraic Programming</i>, Vol. 72, pp. 98-122, May/June 2007.</p>
+              <p><strong> <a href="http://repository.upenn.edu/cis_papers/251"> Compositional modeling for refinement for hierarchical hybrid systems</a></strong>,  Rajeev Alur, Radu Grosu, Insup Lee, and Oleg Sokolsky, <i>The Journal of Logic and Algebraic Programming</i>,  Volume 68, Issue 1-2, 2006, pp. 105-128.</p>
+              <p><strong> <a href="http://repository.upenn.edu/cis_papers/241"> High-Confidence Medical Device Software and Systems</a></strong>,  Insup Lee, George J. Pappas, RanceCleaveland, JohnHatcliff, Bruce H.Krogh, Peter Lee, HarveyRubin, and Lui Sha, <i>IEEE Computer</i>, Volume 39, Issue 4, April 2006, pp. 33-38.</p>
+              <p><strong> <a href="http://repository.upenn.edu/cis_papers/222"> Opportunities and obligations for physical computing systems</a></strong>,  John A. Stankovic, Insup Lee, Aloysius Mok, and Raj Rajkumar, <i>Computer</i>, Volume 38, Issue 11, November 2005, pp. 23-31.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/67/">Java-MaC: A Run-time Assurance Tool for Java Programs</a></strong>, Moonjoo Kim, Sampath Kannan, Insup Lee, Oleg Sokolsky, Mahesh Viswanathan <i>Formal Methods in Systems Design</i>, Vol 24, No 2, March 2004.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/127">Formal specifications and analysis of the computer-assisted resuscitation algorithm (CARA) Infusion Pump Control System</a></strong>, Rajeev Alur, David Arney, Elsa L. Gunter, Insup Lee, Jaime Lee, Wonhong Nam, Frederick Pearce, Steve Van Albert, Jiaxiang Zhou <i>International Journal in Software Tools for Technology Transfer (2004)</i> Volume 5, Issue 4, May 2004, pages 308-319.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/31">Hierarchical Modeling and Analysis of Embedded Systems</a></strong>, Rajeev Alur, Thao Dang, Joel Esposito, Yerang Hur, Franjo Ivancic, Vijay Kumar, Insup Lee, Pradyumna Mishra, George Pappas, and Oleg Sokolsky, <i>Proceedings of IEEE</i>, Vol. 91, No 1, January 2003, pp. 11-28.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/162">Process Algebraic Modeling and Analysis of Power-Aware Real-Time Systems,</a></strong> Insup Lee, Anna Philippou, and Oleg Sokolsky, <i>Computing and Control Engineering Journal</i>, Vol 13, Number 4, 2002, pp. 180-188.</p>
+			<p><strong><a href="http://repository.upenn.edu/cis_papers/142">Hiding Resources that Can Fail</a></strong>, Anna Philippou, Oleg Sokolsky, Insup Lee, Rance Cleaveland, and Scott Smolka,  <i>Information Processing Letters </i>Volume 80, Issue 1, Oct 2001.</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/85">Verisim: Formal Analysis of Network Simulations</a></strong>, Karthikeyan Bhargavan, Carl A. Gunter, Moonjoo Kim, Insup Lee, Davor Obradovic, Oleg Sokolsky, and Mahesh Viswanathan, <i>IEEE Transactions on Software Engineering, </i> Vol. 28, No. 2, Feb 2002, pp. 129-145. (Special Issue on Selected Papers from International Symposium on Sotware Testing and Analysis, 2000).</p>
+              <p><strong><a href="http://repository.upenn.edu/cis_papers/83">An Efficient State Space Generation for the Analysis of Real-time Systems</a></strong>, Inhye Kang, Insup Lee, and Young Si Kim,  <i>IEEE Transactions of Software Engineering</i>, Vol. 26, No. 5, 2000.</p>
+<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/ase99.pdf">Specification and Analysis of Real-Time Systems with PARAGON</a></strong>, Oleg Sokolsky, Insup Lee, and Han&ecirc;ne Ben-Abdallah,  <i>Annals of Software Engineering,</i> Vol. 7, 1999.</p>
+<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/icae98.pdf">A Graphical Language for Specifying and Analyzing Real-Time Systems</a></strong>, Han&ecirc;ne Ben-Abdallah and Insup Lee,  Special Issue of <i>Integrated Computer-Aided Engineering</i> on Real-time Engineering Systems, Vol 5, No 4, 1998.</p>
+<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/95sched.pdf">A Process Algebraic Approach to the Schedulability Analysis of Real-Time Systems</a></strong>, Han&ecirc;ne Ben-Abdallah, Jin-Young Choi, Duncan Clarke, Young Si Kim, Insup Lee and Hong-Liang Xie, <i>Real-Time Systems</i>, Vol 15, 1998.</p>
+<p><strong>Parallel Algorithms for Relational Coarsest Partition Problems</strong>, S.Rajasekaran and Insup Lee, <i> IEEE Transactions on Parallel and Distributed Systems</i>, Vol 9, No 7, July 1998.</p>
+ <p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/denseppr.pdf">A Process Algebra of Communicating Shared Resources with Dense Time and Priorities</a></strong>, Patrice Bremond-Gregoire and Insup Lee,  <i> Theoretical Computer Science</i>, 189 1997.</p>
+<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/iandc97.pdf">A Complete Axiomatization of Finite-state (ACSR) Processes</a></strong>, Patrice Bremond-Gregoire, Jin-Young Choi and Insup Lee,  <i>Information and Computation</i>, Nov 1997.</p>
+<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/jcse95.pdf">VERSA: A Tool for the Specification and Analysis of Resource-Bound Real-Time Systems</a></strong>, Duncan Clarke, Insup Lee and Hong-Liang Xie,  <i>Journal of Computer Software Engineering</i>, 3(2) 1995.</p>
+<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/ieee94.pdf">A Process Algebraic Approach to the Specification and Analysis of Resource-Bound Real-Time Systems</a></strong>, Insup Lee, Patrice Bremond-Gregoire and Richard Gerber,  <i>Proceedings of the IEEE, Special Issue on Real-Time Systems</i> Jan. 1994, pp. 158-171. (Invited Paper). <a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/ProcessAlgebraicApproach.pdf">IEEE Version</a>
+</p>
+<p><strong><a href="ftp://ftp.cis.upenn.edu/pub/rtg/Paper/Full_Postscript/93RTJ-rtcLanguage.pdf">RTC: Language Support for Real-Time Concurrency</a></strong>, Victor Wolfe, Susan Davidson and Insup Lee,  <i>Real-Time Systems</i>, Volume 5, Number 1, 1993, pp. 63-87.</p>
+<p><strong><a href="http://repository.upenn.edu/cis_papers/384">Timed Atomic Commitment</a></strong>, Susan B. Davidson, Insup Lee, Victor Wolfe,  <i>IEEE TRANSACTIONS ON COMPUTERS</i>, VOL. 40, NO. 5, MAY 1991.</p>
+<p><strong><a href="http://repository.upenn.edu/cis_papers/382">A Performance Analysis of Timed Synchronous Comunication Primitives</a></strong>, Insup Lee, Susan B. Davidson,  <i>IEEE TRANSACTIONS ON COMPUTERS</i>, VOL. 39, NO. 9, SEPTEMBER 1990.</p>
+<p><strong><a href="http://repository.upenn.edu/cis_papers/383">Adding Time to Synchronous Process Communications</a></strong>, Insup Lee, Susan B. Davidson,  <i>IEEE TRANSACTIONS ON COMPUTERS</i>, VOL. C-36, NO. 8, August 1987 .</p>
+
+              <p class="h1">&nbsp;</p>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+             <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+           <p class="h2">Relevant Publications</p>
+              <ul>
+              <li><a href="https://scholar.google.com/citations?user=qPlUgrgAAAAJ&hl=en" class="subnav" target="_blank">Google Scholar</a> </li>
+              <li><a href="http://dblp.uni-trier.de/pers/hd/l/Lee:Insup" class="subnav" target="_blank">DBLP</a> </li>
+              <br>
+              
+              <li><a href="http://repository.upenn.edu/precise/" class="subnav">PRECISE Publications</a> </li>
+              <li><a href="http://rtg.cis.upenn.edu/publications.php3" class="subnav">RTG Publications</a> </li>
+              </ul>
+              </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

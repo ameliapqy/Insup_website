@@ -1,0 +1,251 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/about_navigation.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<title>Insup Lee</title>
+    
+<!-- InstanceParam name="which" type="number" value="4" -->    
+<!-- InstanceParam name="off" type="text" value="subnav" -->
+<!-- InstanceParam name="on" type="text" value="on" -->
+
+	
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue">
+    <!--#include virtual="../includes/int_nav.html"-->
+	</td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		
+		<img src="../images/hdr_about.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="subnav">Biography</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="http://www.cis.upenn.edu/~lee/vitagen-web-seas.pdf" class="subnav">CV</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="current_students.shtml" class="subnav">Current Students</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="former_students.shtml" class="on">Former Students</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="professional.shtml" class="subnav">Professional Activities</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="personal.shtml" class="subnav">Personal</a>
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+              
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+              <p class="h1">Former Students</p>
+<ul>
+ 
+<li> David Smitley, 
+The Utilization of Processors Interconnected with a Reconfigurable 
+Network,
+May 1987.  (Research Scientist, Supercomputing Research Center,
+Lanham, Maryland)
+<li>
+Amy Zwarico,
+An Algebraic Model for Communicating Time-Dependent Processes,
+May 1988.  (Assistant Professor, Computer Science Department,
+the Johns Hopkins University, Baltimore, Maryland)
+<li>
+Richard Gerber,
+ Communicating Shared Resources: A Model for Distributed
+Real-Time Systems,
+August 1991.  (Assistant Professor, Department of Computer Science,
+University of Maryland, College Park, Maryland)
+(Received the Morris and Dorothy Rubinoff Award for the best
+CIS Ph.D. dissertation, 1992)
+<li>
+Victor Wolfe,
+Supporting Real-Time Concurrency,
+August 1991.
+(Co-advised with Susan B. Davidson)
+(Assistant Professor, Department of Computer Science,
+The University of Rhode Island, Kingston, RI)
+<li>
+Robert King,
+Design, Implementation and Evaluation of a Real-Time Kernel
+for Distributed Robotics,
+December 1991.
+(Research Scientist, IBM, Yorktown Heights, NY)
+<li>
+Patrice Br&eacute;mond-Gr&eacute;goire,
+A Process Algebra of Communicating Shared Resources
+with DenseTime and Priorities,
+May 1994.
+(Continue working at UNYSIS)
+<li>
+Han&ecirc;ne Ben-Abdallah, 
+GCSR: a Graphical Language for the Specification, Refinement and
+Analysis of Real-Time Systems, Aug 1996.
+(Co-advised with Susan B. Davidson)
+(Postdoc at the University of Waterloo)
+<li> 
+Duncan Clarke,
+Testing Real-Time Constraints, Dec 1996.
+(Assistant Professor, Department of Computer Science,
+The University of Kentucky, Lexington, KY)
+<li>
+Inhye Kang,
+Real-Time System Analysis based on State-Space Exploration,  May 1997.
+(Assistant Professor, Department of Computer Science,
+Soong-Sil University, Korea)
+<li>
+Hee Hwan Kwak, 
+Process Algebraic Approach to the Parametric Analysis of Real-time
+Scheduling Problems,
+Feb 2000.
+(Senior R&D Engineer II, Synopsys, Portland, OR)
+<li>
+Mahesh Viswanathan,
+Foundations for the Run-Time Analysis of Software Systems,
+Sept 2000.
+(Co-advised with Sampath Kannan)
+(Postdoc at DIMACS, Assistant Professor, Department of Computer Science,
+University of Illinois at Urbana-Champaign)
+(Received the Morris and Dorothy Rubinoff Award for the best
+CIS Ph.D. dissertation, 2001)
+<li>
+Moonjoo Kim,
+Information Extraction for Run-time Formal Analysis,
+Dec 2001.
+(Co-advised with Sampath Kannan)
+(Postdoc at POSTECH, Korea) 
+<li>
+Jia Wang,
+Loss-Sensitive Decision Rules for Intrusion Detection and Response,
+July 2004.
+(Co-advised with Link Zhao, Statistics Department)
+(CEO, Qiming Xingchen Information Technology Inc, Beijing, P.R. China)
+ 
+<li>
+Insik Shin,
+A Compositional Framework for Real-time Embedded Systems,
+Aug 2006.
+(Assistant Professor, Computer Science Department, KAIST, Korea)
+<a href="http://locust.kaist.ac.kr/"> homepage </a>
+ 
+<li>
+Usa Sammapun,
+Monitoring and Checking of Real-Time and Probabilistic Properties,
+May 2007.
+(Co-advised with Oleg Sokolsky)
+ 
+<li>
+Michael May,
+Privacy APIs: Formal Models For Analyzing Legal Privacy Requirements,
+May 2008.
+(Co-advised with Carl Gunter)
+<a href="http://www2.kinneret.ac.il/mjmay/"> homepage </a>
+ 
+<li>
+Madhukar Anand,
+Conditional Models for Compositional Design of Real-Time Embedded Systems,
+May 2008. (Cisco, Data Center Team)
+ 
+<li>
+Arvind Easwaran,
+Advances in Hierarchical Real-Time Systems:
+Incrementality, Optimality, and Multiprocessor Clustering, 
+Dec 2008. (Co-advised with Oleg Sokolsky) (Postdoc, IPP-HURRAY,
+Polytechnic Institute of Porto)
+ 
+<li>Nikhil Dinesh, Regulatory Conformance: Logic and Logical Form, Dec 2010. (Co-advised with Aravind Joshi) (Researcher, SRI)
+</ul>
+
+              <p>&nbsp;</p>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            &nbsp;
+             <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,162 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/interior.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Insup Lee</title>
+	<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		<!-- InstanceBeginEditable name="Secondary navigation" -->
+		<img src="../images/hdr_contact.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<!--
+<a href="file:///C|/Users/Mama/Documents/UPenn/test/index.shtml" class="on">sub nav</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#" class="subnav">sub nav</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="#" class="subnav">sub nav</a>
+ -->
+ <!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		<!-- InstanceEndEditable -->
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+  <tr>
+    <td width="40%"><span class="h1">Office</span></td>
+    <td width="60%"><span class="h1">Mail</span></td>
+  </tr>
+  <tr>
+    <td valign="top"><p>602 Levine Hall<br>
+      Phone : (215) 898-3532<br>
+	  FAX : (215) 573-7362<br>
+	  E-mail: <a href="mailto:lee@cis.upenn.edu">lee@cis.upenn.edu </a></p>
+    </td>
+    <td valign="top">3330 Walnut Street<br>
+      Department of Computers and Information Science<br>
+      University of Pennsylvania<br>
+	  Philadelphia, PA 19104</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign="top">&nbsp;</td>
+    <td valign="top">&nbsp;</td>
+  </tr>
+</table>
+<table width="100%" border="0" cellspacing="0" cellpadding="3">
+  <tr>
+    <td width="40%" class="h1">Maps</td>
+    <td width="60%"><span class="h1">Directions</span></td>
+  </tr>
+  <tr>
+    <td valign="top"><p><a href="http://www.facilities.upenn.edu/map.php" target="_blank">Levine Hall from Penn Facilities</a></p>
+      <p><a href="http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=UPenn+Levine+Hall&aq=&sll=39.950773,-75.188413&sspn=0.017535,0.032229&ie=UTF8&hq=&hnear=Levine+Hall,+Philadelphia,+Pennsylvania+19104&z=16" target="_blank">Levine Hall from Google Maps</a></p></td>
+    <td valign="top"><p><a href="http://www.facilities.upenn.edu/map.php" target="_blank">via Penn Maps and Buildings</a><br>
+      <a href="http://maps.google.com/maps?f=q&hl=en&q=3300+Walnut+St,+Philadelphia,+PA+19 104&ie=UTF8&z=15&om=1&iwloc=addr" target="_blank">via Google Maps</a><br>
+      <a href="http://www.mapquest.com/maps?city=Philadelphia&state=PA&address=3300+Walnut +St&zipcode=19104-3409&country=US&latitude=39.952564&longitude=-75.19004&geo code=ADDRESS" target="_blank">via Map Quest</a><br>
+      <a href="http://maps.live.com/Default.aspx?q=3300%20Walnut%20St,%20Philadelphia,%20P A%2019104&mkt=en-us&FORM=LVSP&go.x=15&go.y=6&go=Search&enc=0" target="_blank">via Microsoft Live</a></p></td>
+  </tr>
+  
+</table>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+            <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+            <!--#include virtual="../includes/global_contact.html"-->
+            </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

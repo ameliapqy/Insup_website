@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/interior.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<!-- InstanceBeginEditable name="doctitle" -->
+	<title>Insup Lee</title>
+	<!-- InstanceEndEditable -->
+<link rel="stylesheet" href="../style.css">
+	<script language="JavaScript" type="text/javascript" src="../includes/scripts.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center">
+<tr>
+	<td><img src="../images/top_grad.jpg" width="960" height="10" border="0"></td>
+</tr>
+<tr>
+	<td class="dblue">
+    <!--#include virtual="../includes/int_top.html" -->
+	</td>
+</tr>
+<tr>
+	<td>
+	<table border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td><img src="../images/int_left_side.png" alt="Insup Lee" width="479" height="99" border="0"></td>
+		<td>
+        <img src="../images/int_right_side.jpg" alt="UPenn Lee" width="481" height="99" border="0">
+        </td>
+	</tr>
+	</table>
+	</td>
+</tr>
+<tr>
+	<td class="lblue"><!--#include virtual="../includes/int_nav.html"--></td>
+</tr>
+<tr>
+	<td class="white">
+    <table border="0" cellpadding="20" cellspacing="0">
+    <tr>
+        <td>
+		<!-- InstanceBeginEditable name="Secondary navigation" -->
+		<img src="../images/hdr_research.jpg" width="920" height="32" border="0">
+<!-- Secondary Navigations Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<a href="index.shtml" class="on">Current Projects</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="former.shtml" class="subnav">Past Projects</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+
+<!-- Secondary Navigations End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+		<!-- InstanceEndEditable -->
+       
+		<p>&nbsp;</p>
+        <table border="0" cellpadding="0" cellspacing="0" width="100%">
+        <tr valign="top">
+            <td width="725">
+			
+			<!-- InstanceBeginEditable name="Content" -->
+                <!-- Content Start awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp  -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+
+ <tr>
+    <td colspan="2"><p class="h1">Integrated Static and Dynamic Approaches to High-Assurance for Learning-Enabled Cyber-Physical Systems (<a href="https://www.darpa.mil/program/assured-autonomy" target="_blank">DARPA ASSURED AUTONOMY</a></a>) - <a href="https://rtg.cis.upenn.edu/assured-autonomy/" target="_blank">Project page</a></p></td>
+    </tr>
+  <tr>
+    <td width="165" valign="top"><img src="../images/Fotolia_41740879_M.jpg" alt="medical devices" name="" width="150" height="135" class="imgstroke"></td>
+    <td valign="top"><p>The project develops approaches to reason about safety of autonomous vehicles that rely on machine learning for perception and control. Our approach combines design-time techniques with run-time monitoring techniques.  One design-time technique is closed-loop verification of deep neural network (DNN) controllers, implemented in a tool VeriSig.  Another run-time technique is calculation of robustness measures for classifiers and generation of run-time confidence monitors.  Run-time monitoring techniques include detection of anomalous behaviors, evaluation of confidence in the outputs of learning-enabled components, and validation of operational assumptions made at design time.  Finally, we develop new argument patterns for the construction of assurance cases for autnomous vehicles, which make use of design-time evidence of safety as well as dynamic evidence produced by monitors discussed above.</p></td>
+  </tr>
+  <tr>
+    <td colspan="2"><hr></td>
+    </tr>
+
+ <tr>
+    <td colspan="2"><p class="h1">Robust Concept Learning and Lifelong Adaptation Against Adversarial Attacks (ARO MURI) - <a href="https://aro-muri2020.seas.upenn.edu/index.html" target="_blank">Project page</a></p></td>
+    </tr>
+  <tr>
+    <td width="165" valign="top"><img src="../images/robust.jpg" alt="medical devices" name="" width="150" height="84" class="imgstroke"></td>
+    <td valign="top"><p>This proposal addresses the design and analysis of robust and adaptive machine learning based on how children learn.  Learning systems are vulnerable to adversarial inputs that are malicious (e.g., image tampering) and non-malicious (e.g., dynamic environments). Moreover, these adversarial inputs can affect the learning systems at design-time (i.e., in the training data) and runtime (i.e., in the test data). Providing predictive analytics that deliver intelligent services in an adversarial setting requires cross-thrust research addressing fundamental adversarial learning challenges. First, modern machine learning generally lack adversarial robustness, both at design-time and run-time, where state-of-the-art approaches tend to perform substantially worse in the presence of adversarial examples such as sensor noise (e.g., dust on the camera lens), image transformations (e.g., translations, rotations, and scaling), and distribution shifts (e.g., daytime images to nighttime images). Second, concepts learned by both children and learning systems must be robust to adversarial examples in real, large-scale dynamic environments, requiring new concepts built upon previous knowledge. However, achieving this improved robustness requires increased reliance on prior concepts (e.g., relational models, causal models, and shapes) that may also be susceptible to changes in the environment. Third, safety critical autonomous systems require verifying and monitoring the robustness of concept-based learning, which is challenging in dynamically evolving systems based on the sensed environment. <br> 
+In this project, we aim to develop the foundations for robust and adaptive learning based on childhood development consisting of three research thrusts: (Thrust I) Concept-based Learning Robust to Adversarial Examples; (Thrust II) Adaptive Learning in Dynamic Environments; and (Thrust III) Verification and Monitoring of Learning. 
+</p>
+</td>
+  </tr>    
+  <tr>
+    <td colspan="2"><hr></td>
+    </tr>
+
+ <tr>
+    <td colspan="2"><p class="h1">AutoWean: Foundations of Autonomous Medical CPS for Mechanical Ventilation Weaning (<a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9985370&icde=47046182" target="_blank">NIH R01</a>) - Project page</p></td>
+    </tr>
+  <tr>
+    <td width="165" valign="top"><img src="../images/mechanical-ventilation-weaning.jpg" alt="medical devices" name="" width="150" height="91" class="imgstroke"></td>
+    <td valign="top"><p>While mechanical ventilators provide life-saving respiratory support, prolonged acute mechanical ventilation (PAMV) can lead to severe complications (e.g. , pneumonia) and increased health-care costs - predicted to be over $32 billion in 2020 and accounting for over 10% of all hospital costs. Thus, mechanical ventilation needs to be discontinued as early as possible, often by using a process known as "weaning". However, the best approach to weaning remains an open question and is subject to controversy, where estimated 170,000 preventable deaths per year in US intensive care units are a result of inappropriate ventilator weaning. Consequently, the Emergency Care Research Institute (ECRI) lists improper ventilator settings as a Top 10 Health Technology Hazard in 2019. Autonomous mechanical ventilation weaning exemplifies a medical cyber-physical systems (MCPS) that requires collections of interconnected medical devices (e.g., ventilators and patient monitors) that are coordinated for treating a patient (i.e. , performing safe autonomous weaning). This project aims to develop fundamental advances in safe and effective data-driven context-aware human-in-the-loop control that will enable autonomous mechanical ventilation weaning. While closed-loop control and data-driven techniques (e.g., system identification and machine learning) have been applied to MCPS, assuring the safety and reliability of using data-driven components that adapt in-the-loop with a human operator remains a challenge. We will demonstrate the impact of our closed-loop design and analysis techniques in autonomous MCPS for mechanical ventilation weaning. 
+</p>
+</td>
+  </tr>    
+  <tr>
+    <td colspan="2"><hr></td>
+    </tr>
+
+ <tr>
+    <td colspan="2"><p class="h1">Monitoring Safety and Adherence of Pain Management Through Remote Opioid Sensing and Analysis (<a href="https://projectreporter.nih.gov/project_info_description.cfm?aid=9936691&icde=47034448" target="_blank">NIH R01</a>) - Project page</p></td>
+    </tr>
+  <tr>
+    <td width="165" valign="top"><img src="../images/monitoring.jpg" alt="medical devices" name="" width="150" height="78" class="imgstroke"></td>
+    <td valign="top"><p>While mechanical ventilators provide life-saving respiratory support, prolonged acute mechanical ventilation (PAMV) can lead to severe complications (e.g. , pneumonia) and increased health-care costs - predicted to be over $32 billion in 2020 and accounting for over 10% of all hospital costs. Thus, mechanical ventilation needs to be discontinued as early as possible, often by using a process known as "weaning". However, the best approach to weaning remains an open question and is subject to controversy, where estimated 170,000 preventable deaths per year in US intensive care units are a result of inappropriate ventilator weaning. Consequently, the Emergency Care Research Institute (ECRI) lists improper ventilator settings as a Top 10 Health Technology Hazard in 2019. Autonomous mechanical ventilation weaning exemplifies a medical cyber-physical systems (MCPS) that requires collections of interconnected medical devices (e.g., ventilators and patient monitors) that are coordinated for treating a patient (i.e. , performing safe autonomous weaning). This project aims to develop fundamental advances in safe and effective data-driven context-aware human-in-the-loop control that will enable autonomous mechanical ventilation weaning. While closed-loop control and data-driven techniques (e.g., system identification and machine learning) have been applied to MCPS, assuring the safety and reliability of using data-driven components that adapt in-the-loop with a human operator remains a challenge. We will demonstrate the impact of our closed-loop design and analysis techniques in autonomous MCPS for mechanical ventilation weaning. 
+</p>
+</td>
+  </tr>    
+  <tr>
+    <td colspan="2"><hr></td>
+    </tr>
+
+ <tr>
+    <td colspan="2"><p class="h1">Smart Alarms 2.0: Foundations for Caregiver-in-the-loop Suppression of Non-Informative Alarms (<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=1915398&HistoricalAwards=false" target="_blank">NSF SCH</a>) - Project page</p></td>
+    </tr>
+  <tr>
+    <td width="165" valign="top"><img src="../images/smart alarm.jpg" alt="medical devices" name="" width="150" height="87" class="imgstroke"></td>
+    <td valign="top"><p>Systems used to continuously monitor vital signs in hospitals and home settings generate alarms intended to warn caregivers, clinicians in the hospital, or parents at home of conditions that warrant their immediate attention. However, less than 1% of these alarms are considered actionable or informative, which has led to clinical alarm fatigue being ranged as one of the Top 10 Health Technology Hazards. While there have been advances in human factors, operational factors, and technical factors independently, their interdependencies have yet to be collectively considered. Consequently, current alarm suppression systems aimed at addressing clinical alarm fatigue are generally not extensible, suffer from low adoption rates, and/or have poor performance in practice. This project aims to develop foundations for the design of next generation smart alarms. Smart Alarms 2.0 will utilize caregiver-in-the-loop alarm suppression systems to reduce the frequency of non-informative alarms in-clinic and at home. Realizing an effective caregiver-in-the-loop alarm suppression system requires fundamental advances in robust alarm suppression design methodologies and caregiver-in-the-loop modeling and analysis. The potential impact of the proposed design and analysis techniques is evaluated in medical scenarios for alarm suppression applications, spanning pediatric wards and at-home monitoring of Bronchopulmonary dysplasia (BPD) patients. This project will lay the foundations for designing caregiver-in-the-loop alarm systems in which physicians, nurses, and parents monitor the right children, at the right times, using optimal alarm settings to maximize informativeness.  
+</p>
+</td>
+  </tr>    
+  </table>
+
+
+</p>
+<p>&nbsp;</p>
+              <!-- Content End awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp awp -->
+            <!-- InstanceEndEditable -->
+            
+            </td>
+            <!-- InstanceBeginEditable name="Right Column" -->
+             <td class="vdash"><img src="../images/clear.gif" width="20" height="20" alt="" border="0"></td>
+            <td>
+           <p class="h2">Relevant Research</p>
+				<p><a href="http://www.nitrd.gov/About/MedDevice-FINAL1-web.pdf" target="_blank">High-Confidence Medical Devices: Cyber-Physical Systems for 21st Century Health Care</a></p>
+                <p>&nbsp;</p>
+                <p><a href="http://repository.upenn.edu/precise/">PRECISE Publications at Scholarly Commons</a></p>
+                </td>
+            <!-- InstanceEndEditable -->
+        </tr>
+        </table>
+        </td>
+    </tr>
+    </table>
+	</td>
+</tr>
+<tr>
+	<td class="dblue"><img src="../images/clear.gif" width="320" height="10" alt="" border="0"></td>
+</tr>
+<tr>
+	<td>
+   	 <!--#include virtual="../includes/credit.html"-->
+	</td>
+</tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
